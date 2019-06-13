@@ -14,6 +14,7 @@ However, following files are modified (files not modified are those never/seldom
 - evaluate.py
 
 #### step 1: download stackoverflow dataset 
+https://drive.google.com/file/d/18H1y72hVM_2Ht6JGyAonokuU4UTKgekE/view?usp=sharing
 #### step 2: preprocess the data set 
 python preprocess -dataset_name stackof -source_dataset_dir [PATH_TO_DATA_SET]
 #### step 3: run prepared script to train and test model
