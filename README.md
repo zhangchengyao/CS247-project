@@ -17,6 +17,7 @@ However, following files are modified (files not modified are those never/seldom
 #### step 2: preprocess the data set 
 python preprocess -dataset_name stackof -source_dataset_dir [PATH_TO_DATA_SET]
 #### step 3: run prepared script to train and test model
+train_stackof_copy, train_stackof_plainRnn, train_stackof_ptgen, predict_copy, predict_plain, predict_ptgen
 In order to test on the entire test set, please comment out line 205 and 206 in evaluate.py. But get them back as training.
 ### NOTICE: 
 The training and testing requires cuda avaialbe on the machine, otherwise it takes extremely long to train and test with zero guarantee to run successfully at the end. The model is built based on latest cuda toolkit 10.0, so please use pytorch that supports cuda10 as well.
