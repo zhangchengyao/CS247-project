@@ -1,0 +1,12 @@
+phrase: [('twain', 0.10047928984454187)]
+tags: ['c#', '.net', 'twain']
+document_f1: 0.5
+phrase: []
+tags: ['c', 'struct']
+document_f1: 0
+phrase: [('name', 0.007405640906933633), ('pscnts', 0.005680406897891253), ('parent', 0.005305360161282242)]
+tags: ['javascript', 'jquery', 'html']
+document_f1: 0
+phrase: [('lastname', 0.007712625596420643), ('firstname', 0.006669477900960055), ('width', 0.0058898210378015995), ('gfirst', 0.004856337543090141), ('change', 0.004438739798453016)]
+tags: ['javascript', 'php', 'html']
+document_f1: 0

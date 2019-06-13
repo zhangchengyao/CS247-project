@@ -1,0 +1,3001 @@
+phrase: [('twain', 0.10047928984454187)]
+tags: ['c#', '.net', 'twain']
+document_f1: 0.5
+phrase: []
+tags: ['c', 'struct']
+document_f1: 0
+phrase: [('name', 0.007405640906933633), ('pscnts', 0.005680406897891253), ('parent', 0.005305360161282242)]
+tags: ['javascript', 'jquery', 'html']
+document_f1: 0
+phrase: [('lastname', 0.007712625596420643), ('firstname', 0.006669477900960055), ('width', 0.0058898210378015995), ('gfirst', 0.004856337543090141), ('change', 0.004438739798453016)]
+tags: ['javascript', 'php', 'html']
+document_f1: 0
+phrase: [('ways', 0.01725053101546643)]
+tags: ['java']
+document_f1: 0
+phrase: [('ang3o', 0.016490514932545983), ('code', 0.011068769421793771), ('compile', 0.008092860524937014), ('macros', 0.007550925369012719), ('work', 0.006891598134802949)]
+tags: ['c++', 'object', 'makefile']
+document_f1: 0
+phrase: [('letter', 0.015713951526159925)]
+tags: ['php', 'mysql', 'web services', 'java me', 'wsdl']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'replace']
+document_f1: 0
+phrase: [('mat', 0.058208474453840475), ('rect', 0.02535389058221288), ('cv32fc1', 0.019223504679409285)]
+tags: ['c++', 'opencv', 'matrix', 'dimensionality reduction']
+document_f1: 0
+phrase: [('result', 0.03775687993447581), ('call', 0.03593430980602695), ('auto', 0.028377843155926473), ('lincoln', 0.022440603204423683)]
+tags: ['javascript', 'ajax', 'jquery', 'autocomplete', 'autosuggest']
+document_f1: 0
+phrase: [('http', 0.03622104595078067), ('machine', 0.008778031829602113)]
+tags: ['java', 'microsoft dynamics', 'dynamics nav', 'dynamics nav 2013']
+document_f1: 0
+phrase: []
+tags: ['ios', 'xamarin.ios', 'uitextfield']
+document_f1: 0
+phrase: [('end', 0.03019476865845382), ('byval', 0.024455255589922186), ('method', 0.01606289415411539)]
+tags: ['asp.net', 'vb.net', 'blob']
+document_f1: 0
+phrase: [('host', 0.04541439550844841), ('callers', 0.024163223761013087), ('connect', 0.021146398593111945)]
+tags: ['android', 'ios']
+document_f1: 0
+phrase: [('list', 0.10190663638153435), ('return', 0.04507371752289225), ('function', 0.04081206311796286), ('check', 0.033963521719039075), ('inputlist', 0.02683218419293475)]
+tags: ['python', 'list']
+document_f1: 0.285714285714
+phrase: [('datetimedate', 0.04859383608744053), ('yitertuples', 0.030795464317566558)]
+tags: ['python', 'pandas']
+document_f1: 0
+phrase: [('way', 0.02683486757623816)]
+tags: ['c# 4.0', 'solr', 'web crawler']
+document_f1: 0
+phrase: [('area', 0.09235021063739825)]
+tags: ['ios', 'mkmapview', 'area']
+document_f1: 0.5
+phrase: []
+tags: ['python', 'django', 'django admin']
+document_f1: 0
+phrase: [('thanks', 0.027029700308847746), ('output', 0.02381739338215125), ('presentations', 0.012833589016398054)]
+tags: ['intellij idea', 'clipboard', 'presentation']
+document_f1: 0
+phrase: [('sort', 0.07824096878753178), ('comparators', 0.01843548751835096)]
+tags: ['java', 'sorting', 'collections']
+document_f1: 0
+phrase: []
+tags: ['python', 'variables', 'serial port', 'port', 'pyserial']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'node.js', 'osx', 'npm', 'electron']
+document_f1: 0
+phrase: [('properties', 0.03056010820527906), ('cost', 0.02767726115471786), ('time', 0.02655318044719531)]
+tags: ['google app engine', 'google cloud datastore']
+document_f1: 0
+phrase: [('web', 0.019510588599829584)]
+tags: ['serialization', 'asp.net web api']
+document_f1: 0
+phrase: [('print', 0.04110823376718514), ('something', 0.027685848090238968), ('everything', 0.02409113926983892), ('reason', 0.010445632586405667)]
+tags: ['python', 'python 3.x']
+document_f1: 0
+phrase: [('day', 0.03461839159721741), ('int', 0.03299647551027838), ('systemcurrenttimemillis', 0.021245664727159688), ('code', 0.018734551486114324), ('days', 0.0075365069313961365)]
+tags: ['android']
+document_f1: 0
+phrase: [('halide', 0.03004925198247292), ('size', 0.016247551928655606), ('float', 0.014691108496386145), ('ypointer', 0.013803045509629387), ('matrix', 0.01166219060154051)]
+tags: ['halide']
+document_f1: 0.333333333333
+phrase: []
+tags: ['python', 'tornado', 'pyramid']
+document_f1: 0
+phrase: [('end', 0.029885655200568528), ('information', 0.022814127908898564), ('topic', 0.021925754999345792)]
+tags: ['asp.net', 'asp.net mvc', 'angularjs', 'asp.net web api', 'authorization']
+document_f1: 0
+phrase: [('help', 0.02254598608773549), ('field', 0.01978976846856427)]
+tags: ['asp.net']
+document_f1: 0
+phrase: [('telnet', 0.042450322847344776), ('anyone', 0.035897543182982036), ('emulators', 0.03425708593495286)]
+tags: ['tcp', 'windows 7']
+document_f1: 0
+phrase: [('work', 0.05783249921720782), ('something', 0.028136451973335613)]
+tags: ['linq', 'dynamic']
+document_f1: 0
+phrase: [('task', 0.021451543988089964)]
+tags: ['javascript', 'gruntjs', 'assemble']
+document_f1: 0
+phrase: [('thanks', 0.031826523133208696), ('run', 0.029030590871349307)]
+tags: ['java', 'xml', 'maven', 'jenkins', 'proxy']
+document_f1: 0
+phrase: [('access', 0.02349620798362767), ('options', 0.006801186478755897)]
+tags: ['javascript', 'php', 'jquery', 'ajax', 'cross domain']
+document_f1: 0
+phrase: [('table', 0.07667384530303308)]
+tags: ['asp.net']
+document_f1: 0
+phrase: [('javahome', 0.03904823740336598), ('javac', 0.02007161230091104)]
+tags: ['java', 'windows']
+document_f1: 0
+phrase: [('time', 0.023802032708527262), ('something', 0.019280725596547355)]
+tags: ['c#', 'entity framework', 'ef code first']
+document_f1: 0
+phrase: [('id', 0.03686458743149285), ('value', 0.03276259765277508), ('checkcount', 0.018034502185694867), ('auto', 0.01511213102236545), ('editor', 0.013736164253879453)]
+tags: ['java', 'android', 'sharedpreferences', 'data persistence']
+document_f1: 0
+phrase: []
+tags: ['shell', 'unix']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'jquery', 'openlayers 3', 'geojson']
+document_f1: 0
+phrase: [('error', 0.030701368127801637), ('redirecturihttp', 0.008412608731638283), ('scopehttps', 0.00427852752101064)]
+tags: ['authorization', 'google api dotnet client']
+document_f1: 0
+phrase: [('dom', 0.03613037672817737)]
+tags: ['php', 'dom']
+document_f1: 0.666666666667
+phrase: [('goal', 0.019103676733138307), ('use', 0.018583195034167808), ('something', 0.014411874164868244), ('cost', 0.013703081648673135)]
+tags: ['c#', 'sql server', 'entity framework', 'linq', 'entity sql']
+document_f1: 0
+phrase: []
+tags: ['google chrome', 'analytics', 'bigdata', 'google chrome app']
+document_f1: 0
+phrase: []
+tags: ['gcc', 'static']
+document_f1: 0
+phrase: [('output', 0.04413609603702213), ('something', 0.03575279695866157)]
+tags: ['floating point', 'verilog', 'division']
+document_f1: 0
+phrase: [('match', 0.0464193017789027), ('non', 0.023219899282036806)]
+tags: ['mysql', 'sql', 'regex', 'select']
+document_f1: 0
+phrase: [('bits', 0.03539219908554035), ('printf', 0.03180124908951509), ('nbbytes', 0.017161722737789712), ('z0', 0.012590590592538942), ('need', 0.008075894769753181)]
+tags: ['c', 'compression', 'frame', 'encode', 'speex']
+document_f1: 0
+phrase: [('code', 0.023237660204503026), ('call', 0.017159050519355918), ('html', 0.013043296538390994)]
+tags: ['html', 'code behind']
+document_f1: 0.4
+phrase: [('share', 0.05995352412006349), ('option', 0.04569839313907408)]
+tags: ['android', 'android intent', 'android activity']
+document_f1: 0
+phrase: [('error', 0.03190715611925841), ('csparraydate', 0.020443232456185678), ('nov', 0.012843339016728166), ('line', 0.009888381016321173), ('fail', 0.008563625368463638)]
+tags: ['hadoop', 'hive']
+document_f1: 0
+phrase: [('int', 0.009874311411865452), ('rndnext', 0.006008893110575585)]
+tags: ['.net', 'multithreading', 'concurrency', 'semaphore']
+document_f1: 0
+phrase: [('exit', 0.02243492304971702), ('fxml', 0.02238043122438438)]
+tags: ['javafx']
+document_f1: 0
+phrase: []
+tags: ['c', 'arduino']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'jquery', 'table', 'unique', 'cells']
+document_f1: 0
+phrase: [('query', 0.08504994893178297), ('product', 0.022234839601228608)]
+tags: ['mysql', 'optimization']
+document_f1: 0
+phrase: [('getbounds', 0.024921298816638356), ('degrees', 0.023584818146589023), ('example', 0.01923488452540534)]
+tags: ['google maps', 'google maps api 3']
+document_f1: 0
+phrase: [('number', 0.05652437709700547), ('integer', 0.05093269020967543), ('result', 0.03799318449738312)]
+tags: ['lisp', 'scheme', 'racket']
+document_f1: 0
+phrase: []
+tags: ['couchdb']
+document_f1: 0
+phrase: [('template', 0.029599911790165828)]
+tags: ['ajax', 'seo', 'search engine', 'googlebot', 'deep linking']
+document_f1: 0
+phrase: [('function', 0.07437262148120025), ('call', 0.04145885555837317), ('createwindowex', 0.02187750683903595), ('name', 0.01701587451083706), ('stack', 0.011420800368586281)]
+tags: ['c++', 'winapi']
+document_f1: 0
+phrase: []
+tags: ['maven', 'apache spark', 'sbt', 'hbase']
+document_f1: 0
+phrase: []
+tags: ['c++', 'incomplete type']
+document_f1: 0
+phrase: [('expandablelistview', 0.05283917667059361), ('group', 0.040573224064890286)]
+tags: ['android', 'expandablelistview']
+document_f1: 0.5
+phrase: [('link', 0.026023668730482726), ('value', 0.020897342162976416)]
+tags: ['jquery', 'css']
+document_f1: 0
+phrase: [('collection', 0.02348244616273385), ('gson', 0.017795365070420364), ('json', 0.015106400325138129), ('anyone', 0.013401728926559116), ('sense', 0.00915524414353398)]
+tags: ['java', 'android', 'rest', 'serialization', 'gson']
+document_f1: 0.2
+phrase: []
+tags: ['c#', 'nan']
+document_f1: 0
+phrase: [('app', 0.016805054104653584), ('thank', 0.016233224579486574)]
+tags: ['android']
+document_f1: 0
+phrase: [('escape', 0.06832820906035787), ('prevent', 0.037281923309675516)]
+tags: ['silverlight', 'url']
+document_f1: 0
+phrase: [('please', 0.04154701057301003), ('value', 0.03597775255235619), ('etc', 0.03233010132471215), ('way', 0.027481409702191276)]
+tags: ['javascript', 'arrays', 'string split']
+document_f1: 0
+phrase: [('view', 0.021116136972427355), ('entities1questions', 0.01377778503009801)]
+tags: ['c#', 'asp.net mvc 3', 'entity framework']
+document_f1: 0
+phrase: []
+tags: ['json']
+document_f1: 0
+phrase: [('style', 0.014281240253989597), ('te', 0.013194994384366674), ('line', 0.011608365500304838), ('etc', 0.009355333953256046)]
+tags: ['javascript', 'html', 'leaflet', 'qgis']
+document_f1: 0
+phrase: [('merge', 0.07603795158339298), ('achieve', 0.05989581603399207), ('sem', 0.03652704230574487)]
+tags: ['mongodb']
+document_f1: 0
+phrase: [('add', 0.057873033183095265), ('excel', 0.03933677033792806), ('trail', 0.038490183554341216)]
+tags: ['excel', 'formula', 'trailing']
+document_f1: 0.333333333333
+phrase: [('something', 0.01815704948403497), ('import', 0.0098330465377955)]
+tags: ['qt', 'qml', 'qt quick']
+document_f1: 0
+phrase: [('animations', 0.01761087502152029), ('scale', 0.016922091903079736), ('spread', 0.015797271746579265), ('size', 0.015722953243095587), ('try', 0.0129635109994246)]
+tags: ['swift', 'animation']
+document_f1: 0
+phrase: [('load', 0.020744983430916145), ('xid', 0.013788584820658662), ('specify', 0.013691608301876473)]
+tags: ['c#', '.net', 'automapper', 'automapper 2']
+document_f1: 0
+phrase: [('code', 0.018115829665368413), ('rep', 0.015340357834863155)]
+tags: ['r', 'ggplot2', 'time series', 'timeserieschart']
+document_f1: 0
+phrase: [('hand', 0.027647471817083807)]
+tags: ['php', 'session']
+document_f1: 0
+phrase: [('volume', 0.03960584953706648), ('mnotificationmanagernotify', 0.02279003932071066), ('builderbuild', 0.022320758625964866), ('sound', 0.018513558415071373), ('android', 0.0105968132931949)]
+tags: ['android', 'android notifications', 'android alarms']
+document_f1: 0.25
+phrase: []
+tags: ['facebook', 'facebook graph api', 'facebook javascript sdk']
+document_f1: 0
+phrase: [('server', 0.01400011492056038), ('int', 0.013315234139254112), ('char', 0.013123812777506239), ('echobuffer', 0.010748836106185924), ('exit', 0.0076662978058562314)]
+tags: ['c++', 'linux', 'sockets', 'pthreads', 'posix']
+document_f1: 0
+phrase: [('create', 0.04854747480763523), ('constraint', 0.04430318778533984), ('see', 0.033942083489081454), ('end', 0.021352324232371215)]
+tags: ['oracle', 'check constraints']
+document_f1: 0
+phrase: [('background', 0.020929759783798463), ('event', 0.012432685082091076), ('selfmaptoparent', 0.005261074443188127)]
+tags: ['qt', 'pyqt']
+document_f1: 0
+phrase: []
+tags: ['flex', 'actionscript 3', 'preloader']
+document_f1: 0
+phrase: [('bundle', 0.038643652853611335), ('error', 0.017109313862060032), ('comcompanynameappname', 0.010691246390603178), ('endif', 0.010635083807983232), ('comcompanynameappnamedbg', 0.010279523647320285)]
+tags: ['ios', 'xcode', 'build', 'preprocessor']
+document_f1: 0
+phrase: [('correct', 0.01498714899802794), ('readtextasync', 0.014711753417527656), ('case', 0.008557616045401454)]
+tags: ['c#', 'asynchronous', 'async await']
+document_f1: 0
+phrase: [('cmd', 0.09080053145196039), ('machine', 0.05205969280713284), ('vv', 0.027545715555622047), ('connection', 0.020973428477170153)]
+tags: ['windows', 'cmd', 'netcat']
+document_f1: 0.285714285714
+phrase: [('weightcategory', 0.07803779004265055)]
+tags: ['java']
+document_f1: 0
+phrase: []
+tags: ['java', 'maven 3', 'javafx 8', 'fxml']
+document_f1: 0
+phrase: [('interval', 0.05615602851542167), ('excution', 0.020581600616545927)]
+tags: ['javascript']
+document_f1: 0
+phrase: [('rails', 0.025178972376792425)]
+tags: ['ruby on rails', 'serialization']
+document_f1: 0
+phrase: [('new', 0.022302166136310045), ('onpositionchangedlistener', 0.014777156066838038), ('use', 0.00966298249087807), ('everything', 0.008894137143107012), ('version', 0.007337238514486267)]
+tags: ['android', 'here api']
+document_f1: 0
+phrase: [('php', 0.058520877446036346), ('type', 0.05691779169444867)]
+tags: ['php']
+document_f1: 0.666666666667
+phrase: [('anything', 0.049283099854919764), ('galleries', 0.03942183886825352), ('fail', 0.028734676683733838), ('way', 0.02517960135946302)]
+tags: ['javascript', 'jquery', 'html', 'css']
+document_f1: 0
+phrase: [('tablebeside', 0.010372064546666896), ('wartifallcounter', 0.008454492644294025)]
+tags: ['c#', 'mysql', 'parameter passing', 'call']
+document_f1: 0
+phrase: [('something', 0.025074345600410185), ('max', 0.014894501750853382)]
+tags: ['javascript', 'model', 'dto']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'drupal', 'drupal 7', 'drupal modules']
+document_f1: 0
+phrase: []
+tags: ['php', 'codeigniter', 'special characters']
+document_f1: 0
+phrase: []
+tags: ['recursion', 'preprocessor', 'inno setup', 'filesize', 'directory']
+document_f1: 0
+phrase: []
+tags: ['google apps script', 'chrome web store']
+document_f1: 0
+phrase: []
+tags: ['c#']
+document_f1: 0
+phrase: [('options', 0.018752312607966167), ('package', 0.013993473449238954), ('argument', 0.00857256755715203)]
+tags: ['powershell', 'sql server 2012', 'ssdt', 'dacpac']
+document_f1: 0
+phrase: [('response', 0.07610119124470471), ('stuff', 0.043396556543475566)]
+tags: ['ajax', 'jquery']
+document_f1: 0
+phrase: [('days', 0.03499338046845349), ('word', 0.025289139862774587), ('week', 0.015347813983924066), ('hope', 0.014531346206963901)]
+tags: ['python', 'django', 'humanize']
+document_f1: 0
+phrase: [('setlayout', 0.005077902687894006)]
+tags: ['java', 'user interface', 'awt']
+document_f1: 0
+phrase: [('panel', 0.1040396584241445), ('frame', 0.06605229985916143)]
+tags: ['java', 'swing', 'jframe', 'jpanel']
+document_f1: 0
+phrase: [('json', 0.0622746191246098)]
+tags: ['java', 'android', 'json', 'apache', 'multipartentity']
+document_f1: 0.333333333333
+phrase: [('key1', 0.06274383158373915), ('key4', 0.04736859346820472), ('key3', 0.03384752425022771), ('key2', 0.02871848138451621), ('dictionaries', 0.023723869942252007)]
+tags: ['python 2.7', 'dictionary', 'average']
+document_f1: 0
+phrase: [('array', 0.0888744018865719), ('t2', 0.030841633800622593)]
+tags: ['php', 'usort']
+document_f1: 0
+phrase: []
+tags: ['java', 'android', 'http', 'android asynctask']
+document_f1: 0
+phrase: [('number', 0.019030075335225334), ('please', 0.017052439940290057)]
+tags: ['html', 'css']
+document_f1: 0
+phrase: [('tokens', 0.02806717415802519), ('anybody', 0.026085082566312076)]
+tags: ['.net', 'spring', 'rest', 'oauth2']
+document_f1: 0
+phrase: []
+tags: ['php', 'cakephp']
+document_f1: 0
+phrase: [('element', 0.04016587775918764), ('match', 0.037120789903655145), ('order', 0.0208604284685685)]
+tags: ['php', 'regex']
+document_f1: 0
+phrase: [('lucene', 0.018559261040042366), ('list', 0.017506823142534263)]
+tags: ['java', 'lucene']
+document_f1: 0.5
+phrase: [('stub', 0.11470963071783831)]
+tags: ['testing', 'terminology', 'stub']
+document_f1: 0.5
+phrase: [('checkbox', 0.06053801902401574), ('something', 0.017256980912871325), ('phone', 0.013307426834495914)]
+tags: ['list', 'windows phone 7', 'windows phone 8', 'save', 'isolatedstorage']
+document_f1: 0
+phrase: [('backend', 0.01363495629408037)]
+tags: ['ruby on rails', 'internationalization', 'asset pipeline', 'sprockets']
+document_f1: 0
+phrase: [('domaincomfilephp', 0.08120948135513456), ('domaincomfile', 0.052571005159601794)]
+tags: ['.htaccess', 'mod rewrite', 'url rewriting', 'url redirection']
+document_f1: 0
+phrase: []
+tags: ['visual studio 2010', 'entity framework', 'sqlite', 'database connection']
+document_f1: 0
+phrase: [('bitmapgetwidth', 0.02405310975083779)]
+tags: ['java', 'android', 'bitmap']
+document_f1: 0
+phrase: [('integer', 0.037306522654465116)]
+tags: ['vb.net', 'timer', 'scrollbar']
+document_f1: 0
+phrase: []
+tags: ['c++']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'drupal', 'drupal 6']
+document_f1: 0
+phrase: [('return', 0.02439192180740685), ('methods', 0.013021659125353975), ('bool', 0.010214940672136854)]
+tags: ['ios', 'swift', 'swift2']
+document_f1: 0
+phrase: [('validators', 0.059666263716436505), ('someone', 0.023084558085007485), ('code', 0.022540673833935924)]
+tags: ['java', 'design patterns', 'design', 'architecture', 'refactoring']
+document_f1: 0
+phrase: [('anything', 0.014727580874364352)]
+tags: ['wordpress', '.htaccess', 'amazon web services', 'amazon ec2', 'dns']
+document_f1: 0
+phrase: [('project', 0.015288492691949965), ('functionality', 0.012675990233551227), ('others', 0.008732969408037196), ('rc', 0.008306347900084993), ('context', 0.00564808872548145)]
+tags: ['git', 'version control', 'mercurial', 'visual studio 2012']
+document_f1: 0
+phrase: [('value', 0.05777200412959315), ('cpus', 0.025031211981311474), ('code', 0.016572571748047334), ('instance', 0.013522972741368124), ('mem', 0.01307324958318272)]
+tags: ['javascript', 'marathon']
+document_f1: 0
+phrase: [('session', 0.12471447112026074), ('code', 0.068230786763676)]
+tags: ['c#', 'asp.net', 'session', 'nullreferenceexception', 'tostring']
+document_f1: 0.285714285714
+phrase: []
+tags: ['ios', 'objective c', 'properties', 'title', 'uinavigationitem']
+document_f1: 0
+phrase: [('edit', 0.012258133749137316)]
+tags: ['javascript']
+document_f1: 0
+phrase: []
+tags: ['android', 'android listview']
+document_f1: 0
+phrase: [('checkloginnew', 0.01970492331583978)]
+tags: ['android']
+document_f1: 0
+phrase: [('resvalues', 0.00738993658953801), ('xmlns', 0.007249088373373769), ('vxxstylesxml', 0.007140241852826027), ('tab', 0.006654235273210112), ('androidsupportv4viewviewpager', 0.005983859510884108)]
+tags: ['android']
+document_f1: 0
+phrase: [('call', 0.01808072259370649), ('collectionview', 0.01681108984761689), ('view', 0.01666393846499721), ('uicollectionviewlayoutattributes', 0.01372280584000822), ('return', 0.01357012951542541)]
+tags: ['ios', 'core data', 'uicollectionview', 'nsfetchedresultscontrolle', 'uicollectionreusableview']
+document_f1: 0
+phrase: [('work', 0.02958845156814952), ('installation', 0.02776815311057476), ('yarn', 0.008842636091007744)]
+tags: ['hadoop', 'yarn']
+document_f1: 0.4
+phrase: [('user', 0.057336989423230705)]
+tags: ['ip address', 'user accounts']
+document_f1: 0
+phrase: [('selection', 0.09045403782198379)]
+tags: ['android', 'textselection', 'numberpicker']
+document_f1: 0
+phrase: [('css', 0.06458134561844284), ('div', 0.05711863789531699), ('position', 0.05618138860858174)]
+tags: ['jquery', 'jquery selectors']
+document_f1: 0
+phrase: [('button', 0.11711986346266401)]
+tags: ['twitter bootstrap']
+document_f1: 0
+phrase: []
+tags: ['c#', 'active directory']
+document_f1: 0
+phrase: [('resourceids', 0.04980060880547904), ('dtrowlength', 0.024454393682700616), ('resourceidsadd', 0.01380861909443397), ('use', 0.010232606679525644)]
+tags: ['vb.net', 'mongodb']
+document_f1: 0
+phrase: []
+tags: ['sql', 'join', 'inner join', 'fuzzy']
+document_f1: 0
+phrase: [('href', 0.044230688801334), ('char', 0.02816954930466077), ('testhtm', 0.020570484261118148)]
+tags: ['regex', 'sed', 'pcre']
+document_f1: 0
+phrase: [('column', 0.01076708582863516)]
+tags: ['ruby', 'neo4j.rb']
+document_f1: 0
+phrase: [('part', 0.016087800963080597)]
+tags: ['qt', 'qtcpsocket', 'qtcpserver']
+document_f1: 0
+phrase: [('anyone', 0.015257506023093545), ('example', 0.0135976439233732)]
+tags: ['django', 'postgresql', 'django admin', 'django fixtures', 'django manage.py']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'arrays', 'each']
+document_f1: 0
+phrase: []
+tags: ['osx']
+document_f1: 0
+phrase: [('djangocorecachebackendsdummydummycache', 0.013364472343214747), ('query', 0.012272118054372791)]
+tags: ['django', 'caching', 'benchmarking']
+document_f1: 0
+phrase: [('python', 0.018174193042462757)]
+tags: ['python', 'unicode', 'python 3.x', 'glob']
+document_f1: 0.4
+phrase: [('trace', 0.011458322404410071), ('srcbb', 0.010026635210027408)]
+tags: ['babeljs']
+document_f1: 0
+phrase: [('need', 0.05418497536711995), ('execution', 0.027409818444838245)]
+tags: ['c#', '.net', 'asp.net']
+document_f1: 0
+phrase: [('result', 0.037999462595358344), ('exception', 0.03003298145279709), ('error', 0.01863956810312231), ('data', 0.015137906924771783)]
+tags: ['selenium', 'selenium ide']
+document_f1: 0
+phrase: [('derequire', 0.013230549461536484), ('underscore', 0.008577554939557381)]
+tags: ['javascript', 'browserify', 'commonjs']
+document_f1: 0
+phrase: [('value', 0.02837106793111512), ('anything', 0.019101533694707566), ('question', 0.018585760967466725)]
+tags: ['c#', 'json', 'xamarin', 'portable class library']
+document_f1: 0
+phrase: [('str', 0.041627476560795636)]
+tags: ['c', 'pointers', 'segmentation fault', 'dynamic arrays', 'coredump']
+document_f1: 0
+phrase: []
+tags: ['ajax', 'mongodb', 'rest']
+document_f1: 0
+phrase: [('output', 0.01805707008575669), ('r2', 0.018045116084255904), ('need', 0.016305638498605012), ('view', 0.009727899383646408)]
+tags: ['sql server 2008']
+document_f1: 0
+phrase: [('nt', 0.03297173017641771)]
+tags: ['neo4j']
+document_f1: 0
+phrase: [('getdmxinterface', 0.043347736799364024), ('delphi', 0.04313472041616197), ('thanks', 0.020078436317816015)]
+tags: ['c#', 'delphi', 'dll', 'pinvoke']
+document_f1: 0.285714285714
+phrase: [('node', 0.0817082748746246), ('click', 0.062288250943622135), ('windows', 0.02047250196891561), ('reason', 0.015615041030453115)]
+tags: ['c#', 'forms', 'winforms', 'treeview']
+document_f1: 0
+phrase: [('table', 0.03810735203810717), ('p1', 0.020226037160127115), ('priselist', 0.01812338229860252), ('p3', 0.01401514854087631), ('p2', 0.010973049512528015)]
+tags: ['c#', '.net', 'mysql']
+document_f1: 0
+phrase: [('script', 0.056693885336058826), ('work', 0.054720764459282895)]
+tags: ['vim', 'hotkeys']
+document_f1: 0
+phrase: [('help', 0.009525310199480766)]
+tags: ['java', 'apache', 'tomcat', 'drupal', 'solr']
+document_f1: 0
+phrase: [('model', 0.03742839191792243), ('docs', 0.03334495125875141), ('resources', 0.0213337079273356), ('part', 0.015025865036691064)]
+tags: ['ruby on rails', 'ruby on rails 3']
+document_f1: 0
+phrase: [('currentrows', 0.01487564360787366), ('change', 0.0142126717053849), ('datatables', 0.007471884562443517), ('apibuttons', 0.006399107692652068)]
+tags: ['javascript', 'jquery', 'datatables']
+document_f1: 0.285714285714
+phrase: [('idclisession', 0.026855945605483093), ('end', 0.02439857056190629), ('newsletter', 0.01492216352402929), ('someone', 0.011428135925631851), ('clientes', 0.004436245985959846)]
+tags: ['mysql', 'asp classic', 'mysql workbench']
+document_f1: 0
+phrase: [('digits', 0.010656061013535086)]
+tags: ['.htaccess', 'mod rewrite', 'cookies', 'numeric']
+document_f1: 0
+phrase: [('value', 0.02657991785775542), ('row', 0.015506858313035735), ('dmaintag', 0.011996268442129343), ('projection', 0.007655282750677225), ('returncount', 0.007304586313239411)]
+tags: ['android', 'sqlite', 'android asynctask']
+document_f1: 0
+phrase: [('check', 0.03328584780665325)]
+tags: ['asp.net', 'html', 'radio button']
+document_f1: 0
+phrase: [('value', 0.02935194820967043), ('thank', 0.025139483335504004)]
+tags: ['java', 'ruby', 'arrays', 'set']
+document_f1: 0
+phrase: [('product', 0.052513297071609)]
+tags: ['php', 'javascript']
+document_f1: 0
+phrase: [('data', 0.07745477344945738), ('way', 0.054279815628289596), ('gt', 0.027485040906588973)]
+tags: ['xml', 'database', 'sanitization']
+document_f1: 0
+phrase: [('question', 0.036890458216700124), ('console', 0.029388924386391603), ('way', 0.013413440500636625), ('link', 0.012648647772841672), ('code', 0.012479239714391974)]
+tags: ['c++', 'visual c++', 'command line']
+document_f1: 0
+phrase: [('httpurlconnection', 0.041442047601453175)]
+tags: ['android', 'httpurlconnection', 'android networking', 'android json']
+document_f1: 0.4
+phrase: [('document', 0.0478719809230668), ('willfinishlaunchingwithoptions', 0.020216194112961307)]
+tags: ['ios', 'core data', 'nsmanagedobjectcontext']
+document_f1: 0
+phrase: [('assets', 0.02671267785869491), ('playback', 0.023101367405285483), ('way', 0.019086772841097766)]
+tags: ['animation', 'svg', 'unity3d']
+document_f1: 0
+phrase: [('flaskextrestfulrepresentations', 0.011898778858300917)]
+tags: ['python', 'flask']
+document_f1: 0
+phrase: [('user', 0.060842631823345476), ('log', 0.051015669820743265), ('view', 0.04549460892114917), ('application', 0.044167079446917897), ('check', 0.023937063521411)]
+tags: ['ios', 'login', 'storyboard']
+document_f1: 0
+phrase: [('everything', 0.01713794768348483)]
+tags: ['javascript', 'jquery', 'ruby on rails']
+document_f1: 0
+phrase: []
+tags: ['python']
+document_f1: 0
+phrase: [('bit', 0.023209405483087035), ('kst', 0.010066407130427106), ('i686', 0.00988234845135835), ('edit', 0.008117076885354116), ('sysv', 0.00747256342885219)]
+tags: ['android', 'linux', 'x86', 'operating system', 'x86 64']
+document_f1: 0
+phrase: [('jwsdp', 0.02758399285447418), ('change', 0.013693364732455093), ('thanks', 0.008716072354069532)]
+tags: ['java', 'web services', 'jaxm']
+document_f1: 0
+phrase: [('engine', 0.024013995785240716), ('anything', 0.022846464749104477), ('perspective', 0.022249287401032745)]
+tags: ['project management', 'continuous integration']
+document_f1: 0
+phrase: [('something', 0.05116295692135051), ('images812overlayexamplejpg', 0.026531059149761282)]
+tags: ['css', 'facebook']
+document_f1: 0
+phrase: [('textview', 0.021389447006678514), ('image', 0.019033907805733438), ('dintrinsicwidth', 0.01117442306407903), ('html', 0.008961708514862396), ('return', 0.008821992690177116)]
+tags: ['c#', 'android', 'xamarin']
+document_f1: 0
+phrase: [('request', 0.07320773724751714), ('place', 0.043799902934435385), ('network', 0.03393148871669196)]
+tags: ['php', 'server', 'request']
+document_f1: 0.333333333333
+phrase: [('ddmmyyyy', 0.021027789594494684)]
+tags: ['asp.net', 'ajaxcontroltoolkit']
+document_f1: 0
+phrase: [('function', 0.030704778244759375), ('success', 0.01573952112804548), ('folders', 0.01362668072991184), ('view', 0.010266160343213883), ('mycontroller', 0.006277566931209256)]
+tags: ['authentication', 'codeigniter 3', 'hmvc', 'tankauth', 'codeigniter hmvc']
+document_f1: 0
+phrase: [('data', 0.037418958863473566), ('value', 0.029675029107356813), ('code', 0.01675246892567855), ('dresponse', 0.016433074686518622), ('strength', 0.014320701989342342)]
+tags: ['android', 'json']
+document_f1: 0
+phrase: [('thanks', 0.04683068741191212), ('metadata', 0.04229201448138156), ('interface', 0.02119944579317027)]
+tags: ['php', 'wordpress', 'wordpress plugin', 'woocommerce', 'woothemes']
+document_f1: 0
+phrase: [('solutions', 0.04075356699140893), ('dsolve', 0.035640839740735474), ('code', 0.019855241988331055), ('linux', 0.01827545091436983), ('mathematica', 0.011400610601178486)]
+tags: ['differential equations']
+document_f1: 0
+phrase: [('height', 0.011798545968580616)]
+tags: ['javascript', 'php', 'charts']
+document_f1: 0
+phrase: [('chunksize', 0.01783322112923624), ('length', 0.016948632029318823), ('filename', 0.01590784802239194), ('md5', 0.015865436562576003), ('siteid', 0.015614241355057193)]
+tags: ['mongodb']
+document_f1: 0
+phrase: []
+tags: ['android']
+document_f1: 0
+phrase: [('submit', 0.016279197459045238), ('work', 0.014574778997856126)]
+tags: ['php', 'html']
+document_f1: 0
+phrase: [('ie10', 0.04631873258888705)]
+tags: ['javascript', 'click', 'internet explorer 10', 'handlers']
+document_f1: 0
+phrase: [('pandas', 0.037128439811945066)]
+tags: ['python', 'sql', 'postgresql', 'pandas', 'sqlalchemy']
+document_f1: 0.333333333333
+phrase: [('machine', 0.04283228184545826), ('work', 0.03554788828353768)]
+tags: ['c++', 'opencv']
+document_f1: 0
+phrase: [('url', 0.030280084030854745), ('webview', 0.029435076009430964), ('javascript', 0.02240176121113475), ('properties', 0.02102202654627838), ('ideas', 0.01108225250400222)]
+tags: ['javascript', 'ios', 'html5', 'uiwebview', 'phaser framework']
+document_f1: 0.2
+phrase: [('image', 0.027899424520252982), ('day', 0.026513681380218465), ('commanderror', 0.024585711503211854), ('error', 0.024175246550267843)]
+tags: ['django', 'crontab']
+document_f1: 0
+phrase: []
+tags: ['vim']
+document_f1: 0
+phrase: [('please', 0.02370814679952213)]
+tags: ['c#', '.net', 'vb.net', 'winforms']
+document_f1: 0
+phrase: [('access', 0.02263006677863929), ('wwwmydomaincomcontrollerfunctionparam', 0.022119055206006544), ('issue', 0.012027201294637031)]
+tags: ['php', 'codeigniter']
+document_f1: 0
+phrase: [('online', 0.008523077412311997)]
+tags: ['jquery', 'performance']
+document_f1: 0
+phrase: [('module', 0.030353496016872875), ('script', 0.025789927226217216)]
+tags: ['node.js', 'path']
+document_f1: 0
+phrase: [('line', 0.05964760297680275), ('mouse', 0.01897826323524574), ('items', 0.016178811923662058)]
+tags: ['c#', '.net', 'listview']
+document_f1: 0
+phrase: [('line', 0.043330210760953676), ('issue', 0.01780066778767562), ('work', 0.01517640215859423), ('nothing', 0.009897073782758847)]
+tags: ['javascript', 'jquery', 'firebug']
+document_f1: 0
+phrase: [('encode', 0.00935749608562835)]
+tags: ['java', 'android', 'android fragments', 'fragment']
+document_f1: 0
+phrase: [('menu', 0.04551585900978693), ('color', 0.00986196476167156)]
+tags: ['joomla']
+document_f1: 0
+phrase: [('farmers', 0.03190247793685575), ('version', 0.030041357324516516), ('consistent', 0.02615518049533603), ('store', 0.013087751808541428)]
+tags: ['sql', 'sql server', 'database']
+document_f1: 0
+phrase: [('minutes', 0.017534114446810117), ('join', 0.009434649848076368)]
+tags: ['sql', 'sql server 2012', 'where clause']
+document_f1: 0
+phrase: [('websites', 0.011362404962131138), ('life', 0.010931999482803078), ('documentation', 0.010675102644379496)]
+tags: ['wordpress', 'mod security', 'mod security2']
+document_f1: 0
+phrase: [('filepath', 0.03021935967231355), ('columnindex', 0.009518308630969991), ('comandroidinternaloszygoteinit', 0.007274354378201016), ('androidappactivitythreadaccess', 0.005882030792924636), ('eandroidruntime', 0.005692187829552642)]
+tags: ['android', 'out of memory', 'heap memory']
+document_f1: 0
+phrase: [('event', 0.03154017783691345), ('need', 0.013893252187864696), ('control', 0.01353398763898826), ('work', 0.011389101151556542), ('time', 0.010997155529607033)]
+tags: ['html', 'ajax', 'dom', 'reporting services']
+document_f1: 0
+phrase: [('get', 0.04781766366998166), ('something', 0.02434208278773772), ('iactivitymanager', 0.022623019907100247)]
+tags: ['android', 'process']
+document_f1: 0
+phrase: []
+tags: ['matlab', 'image processing']
+document_f1: 0
+phrase: [('cities', 0.01934948701871647), ('query', 0.017369037660053252), ('km', 0.014768265272973181), ('boston', 0.012210467095871577), ('etc', 0.011325470621378658)]
+tags: ['mysql', 'sql', 'subquery']
+document_f1: 0
+phrase: [('usercredentials', 0.014442179275167718), ('look', 0.008979916988866327), ('problems', 0.008423943626638473), ('days', 0.007996102833967865), ('line', 0.007813556993698453)]
+tags: ['c#', 'vb.net', 'youtube', 'youtube api']
+document_f1: 0
+phrase: []
+tags: ['c++', 'graph', 'scheme', 'graph algorithm', 'directed acyclic graphs']
+document_f1: 0
+phrase: [('restlet', 0.01933972528224437), ('configuration', 0.010921719230632482), ('media', 0.007622004787724917), ('something', 0.005804980436021141), ('assume', 0.0035870512854348216)]
+tags: ['java', 'mime types', 'content type', 'restlet', 'media type']
+document_f1: 0.2
+phrase: [('page', 0.04092272179962846), ('need', 0.022696744820456492), ('ios', 0.012647506681517562)]
+tags: ['android', 'ios', 'facebook', 'share']
+document_f1: 0.285714285714
+phrase: [('bitspixel', 0.00409529738132036), ('ios', 0.0036563716349740545)]
+tags: ['ios']
+document_f1: 0.666666666667
+phrase: [('something', 0.02737674394286315)]
+tags: ['c#', 'windows 8', 'control']
+document_f1: 0
+phrase: [('thumbtop', 0.022177662776021147), ('thumbbottom', 0.021875658023182743), ('thumb', 0.02107331843553969), ('mx2', 0.01769064967231435), ('tt', 0.005287137708981869)]
+tags: ['android', 'image', 'range', 'seek']
+document_f1: 0
+phrase: [('stats', 0.028269271589643166), ('start', 0.028059675388013523), ('days', 0.027025660300125157), ('way', 0.02685011336758022), ('totaldays', 0.02177513022630075)]
+tags: ['php']
+document_f1: 0
+phrase: [('dat', 0.01649115199453655), ('rows', 0.013044637522425184)]
+tags: ['c#', 'replace', 'dataset', 'datarow', 'datacolumn']
+document_f1: 0
+phrase: []
+tags: ['html', 'css']
+document_f1: 0
+phrase: [('issue', 0.02279862684924451)]
+tags: ['clearcase', 'cleartool', 'clearcase ucm']
+document_f1: 0
+phrase: []
+tags: ['search', 'emacs']
+document_f1: 0
+phrase: [('class', 0.061667140894739764), ('value', 0.02568227229327375), ('enddate', 0.020630668434814786)]
+tags: ['java', 'spring']
+document_f1: 0
+phrase: [('tabs', 0.07969621819330903), ('pad', 0.011198822648664824)]
+tags: ['html', 'css', 'google chrome', 'tabs']
+document_f1: 0.333333333333
+phrase: []
+tags: ['git', 'svn']
+document_f1: 0
+phrase: [('count', 0.018582564201747746), ('bool', 0.014706357355353725), ('nsrunningapplications', 0.012836723656687754)]
+tags: ['objective c', 'xcode', 'cocoa']
+document_f1: 0
+phrase: [('ms', 0.01658960239374518), ('retain', 0.01632423428866743), ('mydevice', 0.012694785191873142), ('iocfplugintypes', 0.006037570538038788), ('power', 0.005702341032942248)]
+tags: ['osx', 'usb', 'osx elcapitan', 'iokit']
+document_f1: 0
+phrase: [('string', 0.051758066690852346), ('nt', 0.03688562279829884), ('anything', 0.016199572428630203), ('help', 0.015983035487739303)]
+tags: ['ios7', 'uiimageview']
+document_f1: 0
+phrase: [('ftreplace', 0.007090868203507634)]
+tags: ['android', 'android fragments', 'rendering', 'transition', 'android softkeyboard']
+document_f1: 0
+phrase: [('way', 0.029628216989383095), ('time', 0.016917803301965594)]
+tags: ['security', 'optimization', 'symfony2']
+document_f1: 0
+phrase: [('addattributetoselect', 0.014245900461146342)]
+tags: ['magento']
+document_f1: 0
+phrase: [('build', 0.019301654270255316), ('problem', 0.006525463735824494), ('anything', 0.006030342264527108), ('didn\xc3', 0.003855142364450339)]
+tags: ['xcode', 'osx', 'dyld']
+document_f1: 0
+phrase: [('view', 0.02266069692372636)]
+tags: ['ipad', 'uitableview', 'uisplitview']
+document_f1: 0
+phrase: []
+tags: ['html', 'css']
+document_f1: 0
+phrase: [('limit', 0.05856111891896332), ('data', 0.02753707357143795)]
+tags: ['android', 'websocket']
+document_f1: 0
+phrase: [('ipads', 0.023295624638881553), ('devices', 0.021488743243354494), ('duplicate', 0.012164036544366541)]
+tags: ['javascript', 'ip']
+document_f1: 0
+phrase: [('something', 0.03110498998316151)]
+tags: ['sql', 'sql server', 'triggers', 'sqltransaction']
+document_f1: 0
+phrase: [('problem', 0.010038931708431478), ('method', 0.008327839824764562), ('way', 0.004653842251603306), ('encodingdefaultgetbytes', 0.004638524262933302), ('cmpwd', 0.004136312911973515)]
+tags: ['c#', 'webrequest']
+document_f1: 0
+phrase: []
+tags: ['makefile', 'cmake', 'clion']
+document_f1: 0
+phrase: []
+tags: ['css', 'html5', 'google chrome', 'twitter bootstrap 3']
+document_f1: 0
+phrase: [('height', 0.02235684486715858), ('json', 0.021640564257300165), ('string', 0.020556785069513972), ('width', 0.016047282184265294), ('responses', 0.011808239959466624)]
+tags: ['php', 'json', 'attributes', 'replace']
+document_f1: 0.222222222222
+phrase: [('wrap', 0.03921227436990135), ('line', 0.03575232082915886), ('view', 0.014994502762945009), ('localize', 0.014992124997598381)]
+tags: ['ruby on rails', 'localization', 'yaml', 'haml']
+document_f1: 0
+phrase: [('row', 0.018033571997875406), ('icons', 0.009574718617463528), ('viewspacewidth', 0.00898764248599749), ('jumpbutton13frame', 0.007478844263646206), ('jumpbutton1frame', 0.005166380568037004)]
+tags: ['iphone', 'ios', 'uiview', 'uideviceorientation']
+document_f1: 0
+phrase: [('instance', 0.07457057807431353), ('go', 0.068372073194264), ('mongodb', 0.058682873248240994)]
+tags: ['mongodb']
+document_f1: 0.5
+phrase: [('use', 0.046079828078637676)]
+tags: ['javascript', 'jquery', 'html', 'css', 'internet explorer']
+document_f1: 0
+phrase: [('info', 0.06202818958668943), ('respond', 0.041338321153016756)]
+tags: ['sip', 'sofia sip']
+document_f1: 0
+phrase: [('flag', 0.0420402799819055), ('target', 0.019304915223940226), ('categories', 0.011106658703944764), ('consequences', 0.008623906484839931), ('version', 0.008094043681385155)]
+tags: ['objective c', 'xcode', 'build', 'linker', 'objective c category']
+document_f1: 0
+phrase: [('field', 0.045240333691690005), ('abort', 0.03430997684637547), ('media', 0.029223906993643658), ('backupexec2012', 0.019942806994469566)]
+tags: ['backup', 'windows server 2003', 'backup strategies', 'symantec']
+document_f1: 0
+phrase: [('dba', 0.04343882387714413), ('applications', 0.010607193030406097), ('developers', 0.005394138557529999)]
+tags: ['system administration']
+document_f1: 0
+phrase: [('text', 0.032771769056803755), ('style', 0.026014022354620192), ('something', 0.023569026589121682)]
+tags: ['javascript', 'jquery', 'html', 'css']
+document_f1: 0
+phrase: [('actionexception', 0.012466074499011093), ('actionexecute', 0.011196261264040311), ('series', 0.010395604051128453), ('architecure', 0.006067844959019404)]
+tags: ['c#', 'unit testing', 'architecture']
+document_f1: 0
+phrase: [('adventure', 0.009374954064546808), ('filters', 0.007192109953775047)]
+tags: ['mdx', 'performancepoint']
+document_f1: 0
+phrase: [('test', 0.05993499864116199), ('array', 0.056094995695586555), ('bar', 0.024679362955249924)]
+tags: ['php', 'arrays', 'dictionary']
+document_f1: 0
+phrase: [('view', 0.017966016216847534), ('button', 0.010375311780986655), ('code', 0.00753650251530733), ('submitbutton', 0.006596215384898621), ('something', 0.006151691826228238)]
+tags: ['asp.net mvc', 'submit button']
+document_f1: 0
+phrase: [('match', 0.03373624009052686), ('time', 0.030248821203825133), ('event', 0.027069915894417193), ('help', 0.01894123791440548), ('anyone', 0.013813384105292828)]
+tags: ['java', 'algorithm']
+document_f1: 0
+phrase: [('access', 0.012183941826902035), ('helpers', 0.012013151734365974), ('utilities', 0.01035717541859629), ('something', 0.009187732482926777), ('operations', 0.005350261977329844)]
+tags: ['business logic', 'business objects', 'business logic layer']
+document_f1: 0
+phrase: [('filegetcontents', 0.04372650447428846), ('php', 0.016161645198883898)]
+tags: ['php', 'web services', 'html parsing', 'wamp']
+document_f1: 0.333333333333
+phrase: [('part', 0.0278425994621726), ('css', 0.025985317901515488), ('thanks', 0.01751673827594378), ('piece', 0.014855658981971923)]
+tags: ['html', 'css', 'layout', 'position', 'positioning']
+document_f1: 0.222222222222
+phrase: [('exception', 0.05672706597379181), ('reason', 0.014221270333903777)]
+tags: ['asp.net', 'asp.net mvc', 'asp.net mvc 3', 'razor', 'orchardcms']
+document_f1: 0
+phrase: [('ans', 0.02773545042242754), ('snmpwalk', 0.01617010801685497)]
+tags: ['net snmp']
+document_f1: 0
+phrase: [('result', 0.02015072822071475), ('integer', 0.019606664152899165)]
+tags: ['java', 'math']
+document_f1: 0
+phrase: []
+tags: ['mysql', 'database']
+document_f1: 0
+phrase: [('way', 0.014723786181602187), ('chart', 0.012412388770806446), ('startrender', 0.012112179347754347), ('code', 0.00945435305895363)]
+tags: ['javascript', 'node.js', 'phantomjs', 'jsfiddle']
+document_f1: 0
+phrase: [('ios', 0.05206417085094932)]
+tags: ['ios', 'zoom', 'timeline', 'libs']
+document_f1: 0.4
+phrase: [('centos', 0.04476672685302471), ('google', 0.03571910655115792)]
+tags: ['html', 'linux', 'centos']
+document_f1: 0.4
+phrase: [('effect', 0.08039779944097938), ('question', 0.013803937792532583)]
+tags: ['javascript', 'jquery', 'html']
+document_f1: 0
+phrase: [('modules', 0.023978404356603207), ('cheers', 0.011275561393460577)]
+tags: ['module', 'prolog']
+document_f1: 0
+phrase: []
+tags: ['angularjs', 'sidebar', 'collapse']
+document_f1: 0
+phrase: [('time', 0.015121754865633412), ('parallelforeach', 0.01409927802874412), ('record', 0.01285567424513668), ('users', 0.007304331188846577), ('batch', 0.005397387322670068)]
+tags: ['c#', 'multithreading', 'rightnow crm']
+document_f1: 0
+phrase: []
+tags: ['matlab', 'cluster analysis', 'fuzzy']
+document_f1: 0
+phrase: [('minutes', 0.019703300700106015), ('slash', 0.017003986635596706), ('anyone', 0.016695502565660176), ('opinion', 0.01638046984599314), ('forum', 0.011496164207972845)]
+tags: ['syntax highlighting', 'notepad++']
+document_f1: 0
+phrase: []
+tags: ['c#', 'zedgraph']
+document_f1: 0
+phrase: [('error', 0.02744549047095791), ('phone', 0.019331990417455265)]
+tags: ['web services', 'windows phone 8']
+document_f1: 0
+phrase: [('browser', 0.03898490639635713), ('firefox', 0.013756738376311141), ('ie', 0.009112276848327942)]
+tags: ['javascript', 'jquery', 'html', 'ajax']
+document_f1: 0
+phrase: [('garden', 0.028292962186578202)]
+tags: ['architecture', 'documentation', 'networking', 'diagramming']
+document_f1: 0
+phrase: [('data', 0.05110150603746511), ('row', 0.022537776817042745), ('month', 0.011183340081814673), ('day', 0.010284257096971396)]
+tags: ['python', 'mongodb', 'pymongo']
+document_f1: 0
+phrase: [('pm', 0.03877741818986652)]
+tags: ['vb.net', 'datetime']
+document_f1: 0
+phrase: [('trp', 0.03270804406586873), ('phe', 0.029152230264539128), ('tyr', 0.028584261803582502), ('till', 0.0176305415918895)]
+tags: ['perl']
+document_f1: 0
+phrase: [('thanks', 0.03434715044750483)]
+tags: ['python']
+document_f1: 0
+phrase: [('sign', 0.032255474160282044)]
+tags: ['c#', 'digital signature', 'signing']
+document_f1: 0
+phrase: []
+tags: ['azure', 'azure web roles', 'webrole']
+document_f1: 0
+phrase: [('way', 0.02731115109635774)]
+tags: ['windows', 'winapi', 'sleep']
+document_f1: 0
+phrase: [('line', 0.040616019485226154), ('debug', 0.010447457311770065), ('memory', 0.008771609757975904), ('exception', 0.005626851183355108), ('heap', 0.005427953055293106)]
+tags: ['android', 'eclipse', 'debugging', 'out of memory']
+document_f1: 0
+phrase: [('table', 0.03998131777193949), ('thanks', 0.02040217434827222), ('pro7', 0.019926904122231796), ('pro6', 0.01972941455410281), ('cat3', 0.0187791568038371)]
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: [('equals', 0.01679983521499455), ('try', 0.00818023005443878), ('otheridequals', 0.005013495373714291)]
+tags: ['c#', 'nhibernate', 'fluent nhibernate']
+document_f1: 0
+phrase: [('work', 0.040128471221145955), ('line', 0.028274087531090283), ('error', 0.01850804886673324)]
+tags: ['perl', 'parallel processing', 'ldap']
+document_f1: 0
+phrase: [('li', 0.036563607949556216), ('loop', 0.032412784268298335), ('configyml', 0.014346817835347362)]
+tags: ['ruby', 'jekyll']
+document_f1: 0
+phrase: [('want', 0.0453280269040473)]
+tags: ['javascript', 'html', 'asp.net', 'image', 'printing']
+document_f1: 0
+phrase: []
+tags: ['xml', 'xslt', 'xpath']
+document_f1: 0
+phrase: [('version', 0.07610431814603065), ('ideas', 0.0706689341462135)]
+tags: ['ruby', 'string']
+document_f1: 0
+phrase: [('excel', 0.04419336663396818), ('result', 0.018637298385329192)]
+tags: ['excel', 'excel formula']
+document_f1: 0.5
+phrase: [('color', 0.023999101551372384), ('data', 0.022212787750718912)]
+tags: ['highcharts']
+document_f1: 0
+phrase: [('foundation', 0.012255746261537123), ('momocs', 0.01150329261221247)]
+tags: ['r', 'github']
+document_f1: 0
+phrase: []
+tags: ['ruby on rails', 'ruby on rails 3']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net mvc', 'entity framework', 'ef code first']
+document_f1: 0
+phrase: [('idea', 0.025063275723564055), ('method', 0.02066650302063496)]
+tags: ['jsf', 'glassfish', 'jndi', 'omnifaces']
+document_f1: 0
+phrase: [('ship', 0.06781838146715025), ('int', 0.045830379989812056), ('size', 0.034837436221365106), ('im', 0.011824764840040055), ('way', 0.01165300789810195)]
+tags: ['java', 'algorithm', 'dictionary', 'random']
+document_f1: 0
+phrase: [('jsonerb', 0.055610418968895375)]
+tags: ['ruby on rails', 'json']
+document_f1: 0
+phrase: []
+tags: ['c++', 'linux', 'posix', 'shared memory']
+document_f1: 0
+phrase: [('y1', 0.018139832049818994), ('y2', 0.017677244838183438), ('m1427133l105185h0v133h1427z', 0.010567198283151905)]
+tags: ['internet explorer', 'svg', 'linear gradients']
+document_f1: 0
+phrase: [('custom', 0.0358671211774607), ('simpletablecell', 0.03522434137592851)]
+tags: ['ios', 'objective c', 'uitableview']
+document_f1: 0
+phrase: [('flush', 0.038914407605421475), ('auto', 0.023262217098394863), ('dao', 0.013835787023383245)]
+tags: ['hibernate']
+document_f1: 0
+phrase: [('python', 0.04375391995290673), ('multiprocessingpy', 0.015246842187820006)]
+tags: ['python', 'python multiprocessing']
+document_f1: 0.5
+phrase: [('plugin', 0.025885731117777255)]
+tags: ['wordpress', 'wordpress plugin']
+document_f1: 0
+phrase: [('cross', 0.01828400356416604), ('space', 0.008357070305218177), ('issue', 0.007690709873741432), ('satisfy', 0.005160876380151497), ('shrink', 0.004649635128605999)]
+tags: ['css', 'flexbox']
+document_f1: 0
+phrase: []
+tags: ['c#', 'wmi', 'wmi query']
+document_f1: 0
+phrase: [('service', 0.07546151432271309), ('secs', 0.023595973559963783), ('load', 0.019723355645989447), ('settings', 0.01816049102457237)]
+tags: ['windows', 'service', 'exe']
+document_f1: 0.285714285714
+phrase: [('return', 0.03877388666939469), ('anyone', 0.014823764500579782), ('number', 0.009593931581645532)]
+tags: ['java', 'algorithm', 'tree', 'binary tree']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'json', 'google chrome extension', 'google chrome devtools']
+document_f1: 0
+phrase: [('nt', 0.017635130932871446), ('application', 0.017612568411603725)]
+tags: ['android', 'floating point', 'double']
+document_f1: 0
+phrase: [('order', 0.04613319261448666)]
+tags: ['multithreading', 'perl', 'concurrency', 'perl data structures']
+document_f1: 0
+phrase: [('log4jproperties', 0.007993165907981442)]
+tags: ['java', 'logging', 'properties', 'log4j']
+document_f1: 0
+phrase: [('plugins', 0.030260466868134436)]
+tags: ['maven', 'plugins', 'jetty', 'maven jetty plugin']
+document_f1: 0.4
+phrase: [('minheight', 0.0059837760612951405), ('declarations', 0.005583015733540794), ('method', 0.003180516640947157), ('properties', 0.0029809114748021014)]
+tags: ['flex', 'datagrid', 'flex4', 'itemrenderer']
+document_f1: 0
+phrase: [('model', 0.008242889184306254)]
+tags: ['java', 'json', 'gson']
+document_f1: 0
+phrase: [('kernel', 0.05002231533496636)]
+tags: ['ruby', 'random']
+document_f1: 0
+phrase: [('twig', 0.03768895883452881)]
+tags: ['symfony2', 'twig', 'boolean logic', 'extends']
+document_f1: 0.4
+phrase: [('stream', 0.0347312270271807), ('success', 0.030393386498672237)]
+tags: ['c#', 'csv', 'silverlight', 'filestream']
+document_f1: 0
+phrase: [('auto', 0.01721386862019447), ('keywrd', 0.011892638953784833)]
+tags: ['php', 'jquery']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'json', 'jquery']
+document_f1: 0
+phrase: [('search1', 0.018711426887763654)]
+tags: ['html', 'forms', 'parameters']
+document_f1: 0
+phrase: [('classicon', 0.02613319079044783)]
+tags: ['html', 'fontello']
+document_f1: 0
+phrase: [('bodyfriction', 0.012791954528392463)]
+tags: ['c#', 'windows phone 7', 'xna', 'xna 4.0', 'farseer']
+document_f1: 0
+phrase: [('c15', 0.01812505560690008), ('rndm', 0.017509750237742268), ('turnrighthard', 0.0134453376953169), ('tempr', 0.01290455235014296), ('post', 0.011581707606237862)]
+tags: ['processing']
+document_f1: 0
+phrase: [('int', 0.020262681460654422)]
+tags: ['java', 'web services', 'maven', 'wsdl']
+document_f1: 0
+phrase: [('width', 0.09182720708355335)]
+tags: ['javascript', 'php', 'html', 'iframe']
+document_f1: 0
+phrase: [('kies', 0.015210216545728579), ('data', 0.013247604283993275)]
+tags: ['android', 'usb', 'serial communication']
+document_f1: 0
+phrase: [('way', 0.02400092435757411), ('machine', 0.01922258221492957)]
+tags: ['r', 'windows', 'unix', 'symlink']
+document_f1: 0
+phrase: [('file', 0.038680844438561165), ('time', 0.02733056261744587), ('someone', 0.02125431115834176), ('makefile', 0.011277165915320101), ('complication', 0.009867240574944054)]
+tags: ['makefile', 'tar']
+document_f1: 0.285714285714
+phrase: [('height', 0.0336054008397815)]
+tags: ['javascript', 'jquery', 'html', 'iframe']
+document_f1: 0
+phrase: [('row', 0.03884339925230028), ('modidx', 0.011022121744821832), ('anyone', 0.008598424525310153), ('void', 0.00839583290667532), ('thanks', 0.007228981128422038)]
+tags: ['asp.net', 'javascript', 'gridview', 'mouseover']
+document_f1: 0
+phrase: [('error', 0.018972866692613288), ('text', 0.016474620399489374), ('debugprint', 0.008570241627244546), ('something', 0.004625211033614077), ('applicationclipboardformats', 0.003694846564766108)]
+tags: ['excel', 'vba', 'excel vba', 'ms office', 'clipboard']
+document_f1: 0
+phrase: [('array', 0.07067069556897777), ('city', 0.029237802854580098), ('zip', 0.022830303331746123), ('look', 0.018239364014449748), ('phone', 0.008987785669160302)]
+tags: ['php', 'arrays']
+document_f1: 0
+phrase: [('data', 0.05550482670034656)]
+tags: ['windows', 'operating system', 'virtual address space', 'readprocessmemory', 'virtualquery']
+document_f1: 0
+phrase: [('anyone', 0.026067633220724376)]
+tags: ['windows', 'localization', 'autorun']
+document_f1: 0
+phrase: [('jsonarray', 0.08077984029264332), ('webrequestcontent', 0.022109279890609942), ('exception', 0.020272322462816236), ('result', 0.019506653321299118)]
+tags: ['android', 'arrays']
+document_f1: 0
+phrase: [('filesort', 0.032645774706036676), ('perform', 0.02268272108322849), ('nt', 0.017903912476680616), ('opentables', 0.010737922191883497), ('bananas', 0.010475274370178901)]
+tags: ['mysql', 'filesort']
+document_f1: 0.285714285714
+phrase: [('storyboard', 0.06821000481452409)]
+tags: ['ios', 'objective c', 'xcode', 'storyboard', 'tabbar']
+document_f1: 0.333333333333
+phrase: [('end', 0.04112931809882961), ('example', 0.037656369507442444), ('something', 0.027293239385433286), ('entries', 0.02434120613599501), ('pseudo', 0.023562386990994572)]
+tags: ['asp.net', 'vb.net', 'foreach']
+document_f1: 0
+phrase: [('confirm', 0.02879128274807685), ('point', 0.028582856836171115), ('thanks', 0.028067493692514833), ('line', 0.02806374794406894), ('java', 0.016484246139130954)]
+tags: ['java', 'synchronized']
+document_f1: 0.285714285714
+phrase: [('length', 0.02700460367336637), ('mathceil', 0.01444522718374884), ('vecrange', 0.012785685729309508), ('stepround', 0.011074772989780095), ('way', 0.011058227381395034)]
+tags: ['python', 'arrays']
+document_f1: 0
+phrase: [('systemoutprintln', 0.015300270245864365), ('code', 0.014772847153142562), ('iteration', 0.01286929993218377), ('index', 0.007390140961452352), ('path', 0.007062620766934115)]
+tags: ['selenium', 'selenium webdriver', 'automation', 'testng', 'selenium grid']
+document_f1: 0
+phrase: []
+tags: ['asp.net mvc', 'facebook', 'asp.net mvc 5', 'asp.net identity', 'owin']
+document_f1: 0
+phrase: [('data', 0.0639396412240518), ('folder', 0.034327880493955014), ('ajax', 0.021878229040862125), ('work', 0.012891287058206297)]
+tags: ['javascript', 'jquery', 'ajax', 'json']
+document_f1: 0.25
+phrase: [('methods', 0.05774757022249717), ('need', 0.011047989357691704)]
+tags: ['ios', 'objective c', 'inheritance']
+document_f1: 0
+phrase: [('php', 0.036766631874860754), ('value', 0.01501690495508444), ('max', 0.010568623771451761)]
+tags: ['php', 'javascript', 'jquery', 'html5', 'file upload']
+document_f1: 0.25
+phrase: [('line', 0.0668605449350525), ('notice', 0.06502765137974033), ('post', 0.02232704189362197), ('index', 0.020121591137347204), ('barriers', 0.004822344728250373)]
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: [('validate', 0.04578071172698069), ('users', 0.02324345834981969), ('event', 0.02191956398467143)]
+tags: ['drupal 7']
+document_f1: 0
+phrase: [('thanks', 0.03346209589292266), ('akash', 0.018820518598139872), ('create', 0.016930732308945064)]
+tags: ['android', 'animation', 'rotation', 'android animation', 'image rotation']
+document_f1: 0
+phrase: [('data', 0.03031111019967892), ('correct', 0.010145098924828155)]
+tags: ['sql server', 'azure', 'sql azure']
+document_f1: 0
+phrase: [('calendar', 0.010853992440768314), ('jul', 0.005514913462166588), ('day', 0.005055275354313164), ('contentheight', 0.0048968114914076585), ('aspectratio', 0.004235611440067001)]
+tags: ['php', 'events', 'parameters', 'fullcalendar']
+document_f1: 0
+phrase: [('jsp', 0.01321526378148884), ('country', 0.00892775372978401), ('thisfee', 0.007780638641193412), ('ship', 0.006549754651001242), ('tell', 0.0036443602630992717)]
+tags: ['java', 'jsp', 'arraylist', 'hyperlink']
+document_f1: 0.222222222222
+phrase: [('add', 0.020019410946511627)]
+tags: ['c', 'string', 'strtok', 'strcat']
+document_f1: 0
+phrase: [('union', 0.0667094111270119), ('id', 0.05158116585694135), ('need', 0.028588124456604497), ('closedate', 0.024619344662025807)]
+tags: ['mysql', 'select']
+document_f1: 0
+phrase: [('background', 0.12080958597620521), ('effect', 0.08160348594819418), ('raster', 0.07688952887971118)]
+tags: ['html', 'html5', 'css3']
+document_f1: 0
+phrase: [('int', 0.015705383877586646), ('row', 0.01366191922379155), ('users', 0.008929383017374531), ('facebook', 0.005903680756366236), ('matter', 0.005718853045767849)]
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: [('title', 0.016836164899817714), ('string', 0.016269111334106617), ('pad', 0.011136043940542732), ('imagesusername1', 0.01061347125833445), ('increase', 0.010099726035370453)]
+tags: ['php', 'javascript', 'jquery', 'fancybox']
+document_f1: 0
+phrase: [('html', 0.04538230814235436), ('part', 0.019058587378517344)]
+tags: ['mime', 'email client']
+document_f1: 0
+phrase: [('function', 0.029203882890996104), ('paramspage', 0.027129245541393475), ('plugin', 0.0066050697481878085)]
+tags: ['javascript', 'jquery', 'ajax', 'select2']
+document_f1: 0
+phrase: [('ion', 0.018988915331061198)]
+tags: ['angularjs', 'ionic']
+document_f1: 0
+phrase: []
+tags: ['.net']
+document_f1: 0
+phrase: [('permgen', 0.06415385719759693)]
+tags: ['java', 'permgen']
+document_f1: 0.666666666667
+phrase: [('look', 0.05864754355385721)]
+tags: ['vim']
+document_f1: 0
+phrase: [('way', 0.0484276730950837)]
+tags: ['python', 'beautifulsoup']
+document_f1: 0
+phrase: [('document', 0.026859230053380735), ('sysdmftsparser', 0.021699147349951736), ('solutions', 0.021208716850886003), ('list', 0.016144929664678915), ('term', 0.009907628074776626)]
+tags: ['sql server', 'full text search', 'hit highlighting']
+document_f1: 0
+phrase: [('change', 0.018988160199307567), ('checkboxes', 0.017439247868101776), ('idstype', 0.01594856886678361), ('example', 0.006807537991311506), ('oncompletetopics', 0.005225086917430299)]
+tags: ['jquery', 'struts2', 'controller', 'checkboxlist', 'checked']
+document_f1: 0
+phrase: [('bottom', 0.01845080845664497)]
+tags: ['android', 'z index', 'android linearlayout']
+document_f1: 0
+phrase: [('json', 0.024438238286079956)]
+tags: ['java', 'spring', 'spring mvc', 'swagger']
+document_f1: 0
+phrase: []
+tags: ['google app engine', 'google cloud storage', 'blobstore']
+document_f1: 0
+phrase: [('statement', 0.020813945956232215), ('objfilepath', 0.020038942597225058), ('confitions', 0.016287010989524744)]
+tags: ['vba', 'vbscript']
+document_f1: 0
+phrase: [('servlet', 0.012327235664482235), ('address', 0.010748952100833785), ('web', 0.00972503505801747), ('encode', 0.004485257171927272), ('issue', 0.00420356429150068)]
+tags: ['spring mvc', 'jdbc', 'transactions']
+document_f1: 0
+phrase: [('server', 0.044863957540673016), ('thanks', 0.023496812446636234), ('program', 0.01868570546984457), ('task', 0.012175183688646233)]
+tags: ['java', 'multithreading', 'tomcat', 'operating system']
+document_f1: 0
+phrase: [('volume', 0.018790748394444137), ('bytes', 0.017041195957652827), ('devsda1', 0.01608582259511921), ('boot', 0.015989870223737237), ('gb', 0.0097408621198858)]
+tags: ['extend', 'volume', 'hyper v', 'rhel5']
+document_f1: 0.222222222222
+phrase: [('xsl', 0.03698257431730872), ('value', 0.0165774973596877), ('file', 0.01094732281999111), ('parameters', 0.0037231324168237245), ('encode', 0.00366102903332663)]
+tags: ['xml', 'xslt', 'schematron']
+document_f1: 0
+phrase: [('int', 0.047369217159610684), ('error', 0.030064645425530542), ('cast', 0.025701609892850738), ('binary', 0.014747587492286971)]
+tags: ['c', 'pointers', 'casting']
+document_f1: 0
+phrase: [('box', 0.03207140435093177), ('rule', 0.025843237425914004)]
+tags: ['html5', 'internet explorer', 'drag and drop', 'internet explorer 11']
+document_f1: 0
+phrase: [('newsletter', 0.02142034482130092)]
+tags: ['search', 'pdf', 'forms']
+document_f1: 0
+phrase: [('eg', 0.021102729970822205)]
+tags: ['ios', 'iphone', 'objective c']
+document_f1: 0
+phrase: [('button', 0.040501638588499825), ('help', 0.01151792021251094)]
+tags: ['ios', 'swift']
+document_f1: 0
+phrase: []
+tags: ['python', 'string', 'python 2.7']
+document_f1: 0
+phrase: [('script', 0.0377328690313134), ('errors', 0.01572302605476315), ('content', 0.014972512511298915), ('home', 0.014674858661413302)]
+tags: ['javascript', 'php', 'jquery', 'wordpress']
+document_f1: 0
+phrase: [('userprofiles', 0.0179804543983374), ('hope', 0.011648575436732499)]
+tags: ['asp.net mvc', 'razor', 'html select']
+document_f1: 0
+phrase: [('code', 0.048945152494606375), ('didselectrowatindexpath', 0.04204717753120307), ('viewcontroller', 0.028142598057062138)]
+tags: ['swift', 'tableview']
+document_f1: 0
+phrase: []
+tags: ['android']
+document_f1: 0
+phrase: [('dependencies', 0.020718981067122288)]
+tags: ['java', 'interface', 'methods', 'up casting']
+document_f1: 0
+phrase: [('parameter', 0.04025060581138067), ('use', 0.02889144045573648)]
+tags: ['delphi', 'activex', 'optional parameters']
+document_f1: 0
+phrase: [('var', 0.025030181828198175), ('review', 0.019801770388683953), ('msg', 0.014580810572006893), ('show', 0.012339033380197395), ('fee', 0.010406790388456709)]
+tags: ['magento']
+document_f1: 0
+phrase: [('scheduler', 0.02656937792009327)]
+tags: ['ruby on rails', 'passenger']
+document_f1: 0
+phrase: [('app', 0.03802723481194368), ('connection', 0.02808220942170103)]
+tags: ['rest', 'oauth 2.0', 'google plus', 'shiro']
+document_f1: 0
+phrase: []
+tags: ['ios', 'facebook', 'cocoa touch']
+document_f1: 0
+phrase: [('icon', 0.026061207476672697)]
+tags: ['java', 'osx', 'javafx', 'icons', 'finder']
+document_f1: 0
+phrase: [('nmap', 0.10346220103952027), ('plugins', 0.03769478632998359)]
+tags: ['perl', 'plugins']
+document_f1: 0.5
+phrase: [('statement', 0.05839855107501347), ('length', 0.02419616189711694)]
+tags: ['jquery', 'internet explorer', 'syntax error']
+document_f1: 0
+phrase: []
+tags: ['entity framework', 'entity framework 4', 'poco']
+document_f1: 0
+phrase: []
+tags: ['json', 'node.js', 'express', 'jade']
+document_f1: 0
+phrase: [('int', 0.02794868509245889), ('solution', 0.007954807410563224), ('a2', 0.007385193980330791), ('problem', 0.006043123480178686)]
+tags: ['java', 'performance', 'algorithm']
+document_f1: 0
+phrase: [('db', 0.0917298373497815), ('today', 0.019333182179776472), ('code', 0.016043603891023644)]
+tags: ['php', 'database', 'oop']
+document_f1: 0
+phrase: []
+tags: ['git']
+document_f1: 0
+phrase: [('issue', 0.029136261538479123), ('initialization', 0.026489455507345945)]
+tags: ['c++', 'string', 'stl']
+document_f1: 0
+phrase: [('reference', 0.03923344840658267), ('link', 0.022127919051027418), ('pointer', 0.010297895392342203), ('none', 0.010077221094270922)]
+tags: ['c#', 'reflection']
+document_f1: 0
+phrase: [('show', 0.05612074407581204)]
+tags: ['c#']
+document_f1: 0
+phrase: [('class', 0.024587482199553392), ('return', 0.014718219371927698), ('need', 0.011804412550572883), ('receiver', 0.010799181743504535), ('serialization', 0.009248611426138571)]
+tags: ['ruby', 'yaml', 'psych']
+document_f1: 0
+phrase: [('procedures', 0.0700992551100847)]
+tags: ['sql', 'sql server', 'stored procedures']
+document_f1: 0
+phrase: [('file', 0.07437179334120177), ('revision', 0.05375699020493451), ('revisions', 0.0494094401923084)]
+tags: ['svn', 'search', 'revision history']
+document_f1: 0
+phrase: []
+tags: ['html', 'css', 'content management system', 'automation']
+document_f1: 0
+phrase: [('data', 0.11018666448315183)]
+tags: ['xpages']
+document_f1: 0
+phrase: [('wjs', 0.008320981353926126)]
+tags: ['jquery', 'css', 'twitter']
+document_f1: 0
+phrase: [('repeat', 0.026804796186879448), ('issue', 0.016269515505465022), ('something', 0.01507177046470709), ('zein', 0.01501670206364661), ('grace', 0.014852622661771595)]
+tags: ['javascript', 'angularjs']
+document_f1: 0
+phrase: [('space', 0.026612569925440848), ('parentid', 0.019454394399040727), ('time', 0.016979144811859748)]
+tags: ['c#', 'mysql']
+document_f1: 0
+phrase: [('row', 0.04551599504053631), ('email', 0.03493303061568028), ('way', 0.0161541821326338), ('page', 0.015046622461910006), ('index', 0.009953888505703959)]
+tags: ['sql server', 'tsql', 'distinct']
+document_f1: 0
+phrase: [('vector', 0.0744503204640812), ('error', 0.040256488510272304), ('int', 0.023368187901998187), ('cmath', 0.009481623524629019)]
+tags: ['c++', 'templates', 'operator keyword']
+document_f1: 0
+phrase: [('var', 0.02423368821010526), ('code', 0.015035264988578215), ('height', 0.010876730718750487), ('margin', 0.0074846872063112115), ('help', 0.007161796416344133)]
+tags: ['google maps', 'magento']
+document_f1: 0
+phrase: [('orgeclipsem2ejdt', 0.06990481727258926), ('software', 0.02527238958685476), ('orgeclipsem2ewtp', 0.015356183495041687), ('stderr', 0.013848165757538486), ('orgeclipsem2efeaturefeaturegroup', 0.013766716065842718)]
+tags: ['eclipse plugin', 'm2e', 'eclipse kepler', 'm2e wtp']
+document_f1: 0
+phrase: [('moto', 0.020108074821445155), ('detect', 0.012640935549765392)]
+tags: ['android', 'android wifi']
+document_f1: 0
+phrase: [('flag', 0.027249930538976976), ('opacity', 0.02131588837364702), ('alpha', 0.012242924415557514)]
+tags: ['php', 'html', 'transparency']
+document_f1: 0
+phrase: [('post', 0.017472171145837434)]
+tags: ['javascript', 'jquery', 'html', 'css', 'z index']
+document_f1: 0
+phrase: [('problem', 0.016062396801510843)]
+tags: ['windows', 'svn', 'tortoisesvn']
+document_f1: 0
+phrase: [('applicationfilterchainjava210', 0.006917415386441373)]
+tags: ['java', 'sqlite', 'jdbc', 'sqlite3', 'sqlexception']
+document_f1: 0
+phrase: [('luck', 0.05357313620371095), ('something', 0.05179022334463018)]
+tags: ['java', 'file', 'data uri', 'data url']
+document_f1: 0
+phrase: [('js', 0.030665374032305702), ('javascript', 0.017005110502046773), ('thank', 0.008583734771172717), ('height', 0.008517789872858209)]
+tags: ['css', 'mobile']
+document_f1: 0
+phrase: [('google', 0.09988916442150085), ('wordpress', 0.028933684301409295), ('weeks', 0.019557327131682692)]
+tags: ['google webmaster tools', 'rich snippets', 'google rich snippets']
+document_f1: 0
+phrase: [('flee', 0.09134330568314068), ('something', 0.035706835030566986)]
+tags: ['javascript']
+document_f1: 0
+phrase: [('hash', 0.027345806125158197), ('verify', 0.011730217706464067), ('glohensinmyampoc', 0.010511474354225586)]
+tags: ['perl', 'cryptography', 'passwords', 'salt', 'password encryption']
+document_f1: 0
+phrase: [('return', 0.04164503935677554), ('doc', 0.019157556241108677)]
+tags: ['android', 'gesturedetector']
+document_f1: 0
+phrase: [('gc', 0.04188009647786254), ('memory', 0.022948899867534234), ('java', 0.017238972084397366), ('reclaim', 0.014954059976158637), ('applications', 0.009506645646082966)]
+tags: ['java', 'garbage collection']
+document_f1: 0.285714285714
+phrase: [('function', 0.012615015263600197), ('js', 0.0064756644788552045)]
+tags: ['javascript', 'ember.js']
+document_f1: 0
+phrase: [('websocket', 0.11496179897487459)]
+tags: ['javascript', 'google chrome', 'websocket', 'chrome dev editor']
+document_f1: 0.4
+phrase: [('scale', 0.07250882605062627), ('methods', 0.02199829171031719)]
+tags: ['c#', 'assets', 'screen resolution', 'windows 8.1']
+document_f1: 0
+phrase: []
+tags: ['c#', '.net', 'xml', 'xml parsing']
+document_f1: 0
+phrase: [('contain', 0.03635710530538894)]
+tags: ['c++']
+document_f1: 0
+phrase: [('integer', 0.014919362877724064), ('activeworkbookworksheets', 0.01248036783470657), ('question', 0.011411502894437995)]
+tags: ['excel', 'vba', 'excel vba']
+document_f1: 0
+phrase: [('session', 0.14337315398639963), ('reference', 0.04396614146579389)]
+tags: ['java', 'network programming', 'apache mina']
+document_f1: 0
+phrase: [('attempt', 0.054156813321781176), ('play', 0.01946137943709416), ('loop', 0.018604586702840965), ('guess1', 0.016753563810844654), ('start', 0.015695594258393765)]
+tags: ['java', 'swing']
+document_f1: 0
+phrase: [('checkboxes', 0.05724158252594505)]
+tags: ['php', 'forms', 'arrays', 'checkbox']
+document_f1: 0
+phrase: []
+tags: ['php', 'facebook', 'facebook graph api', 'curl', 'cron']
+document_f1: 0
+phrase: []
+tags: ['iphone', 'objective c', 'xcode']
+document_f1: 0
+phrase: [('users', 0.015861055761738733)]
+tags: ['android', 'database', 'web services', 'postgresql']
+document_f1: 0
+phrase: [('work', 0.01879108348819898), ('pixel', 0.01787068062720778)]
+tags: ['php', 'gd']
+document_f1: 0
+phrase: [('change', 0.02233530286201921)]
+tags: ['javascript', 'jquery', 'html']
+document_f1: 0
+phrase: [('cluster', 0.049731183264075884), ('verson', 0.01665098443975963), ('work', 0.015634045711298634)]
+tags: ['orientdb']
+document_f1: 0
+phrase: [('sizessizes', 0.052549867584027056)]
+tags: ['bash', 'shell', 'unix']
+document_f1: 0
+phrase: [('headers', 0.036783942101683315), ('buildphases', 0.03625855468082975), ('anyone', 0.023482549023618734), ('sources', 0.01685579390181836), ('frameworks', 0.014737575364253228)]
+tags: ['ios', 'xcode', 'templates', 'build']
+document_f1: 0
+phrase: [('everything', 0.012403376656559233), ('addline', 0.011792600117616858), ('issue', 0.010892172100088336)]
+tags: ['c#', 'string']
+document_f1: 0
+phrase: [('nt', 0.051576894303178064), ('regex', 0.0406298959972157), ('function', 0.031735589745991874), ('scrap', 0.019558937674635603), ('variables', 0.016400922079721575)]
+tags: ['javascript', 'regex', 'web scraping', 'screen scraping']
+document_f1: 0.222222222222
+phrase: []
+tags: ['wordpress', '.htaccess', 'mod rewrite']
+document_f1: 0
+phrase: [('want', 0.01169149009762507), ('tutorials', 0.01159018824534892), ('problem', 0.011302521953727648), ('kb', 0.010652139834083585), ('something', 0.00922827720325324)]
+tags: ['c++', 'cuda']
+document_f1: 0
+phrase: [('program', 0.02358685981553367), ('balance', 0.021125433475171325), ('please', 0.008062550229517483), ('time', 0.007569002008341538), ('compiler', 0.006435074232608548)]
+tags: ['c++']
+document_f1: 0
+phrase: [('show', 0.04380314533853265), ('default', 0.023377783852902317), ('europe', 0.0227227750044106), ('divs', 0.021937819542739673)]
+tags: ['javascript', 'css', 'geolocation', 'ip geolocation']
+document_f1: 0
+phrase: [('engine', 0.04340547993770881), ('row', 0.031187860610778127)]
+tags: ['mysql', 'sql']
+document_f1: 0
+phrase: [('problem', 0.05284065061729184), ('pre', 0.04909663373207549), ('ideas', 0.028907748251872173), ('sub', 0.017467532910427935)]
+tags: ['javascript', 'jquery', 'jquery ui', 'nested sortable']
+document_f1: 0
+phrase: [('ad', 0.029297984287875882), ('reference', 0.025667910417543682), ('errors', 0.01950037009662602), ('practice', 0.011497597513879713), ('concern', 0.008257558456528216)]
+tags: ['ipad', 'iad']
+document_f1: 0
+phrase: [('lock', 0.05830857365932655), ('data', 0.050916451085453576)]
+tags: ['c++', 'multithreading', 'thread safety', 'mutex']
+document_f1: 0
+phrase: [('help', 0.009166885219373975), ('look', 0.00875433419727778)]
+tags: ['java', 'junit']
+document_f1: 0
+phrase: [('quantity', 0.0443225355775327), ('parameters', 0.03321703037187086), ('need', 0.031321549944283614), ('solution', 0.02040782758552244)]
+tags: ['sql server']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net']
+document_f1: 0
+phrase: [('country', 0.017572381813740108), ('estimates', 0.00989545180935786)]
+tags: ['r', 'panel data', 'imputation']
+document_f1: 0
+phrase: [('channelviewjava120', 0.019086663603351248), ('mouselistener', 0.015692752112715338), ('statement', 0.013616523304385102), ('line', 0.009448148069914031), ('clicks', 0.008508803045735057)]
+tags: ['java', 'swing', 'jtree', 'mouselistener']
+document_f1: 0.222222222222
+phrase: [('call', 0.029330544309377524), ('charactersnumbers', 0.02603497040640404), ('characters', 0.023551961962983668), ('entry', 0.01369441693623566), ('count', 0.013081989028412623)]
+tags: ['ios', 'uisearchbar', 'uisearchbardelegate']
+document_f1: 0
+phrase: [('part', 0.033374014288098074), ('something', 0.026963596947353126)]
+tags: ['xslt', 'sharepoint']
+document_f1: 0
+phrase: [('tree', 0.028938357458483825), ('type', 0.008679758034966987)]
+tags: ['php', 'oop', 'loops', 'smarty']
+document_f1: 0
+phrase: [('page', 0.062106775421219236), ('jquery', 0.0286346898276321)]
+tags: ['jquery', 'html', 'ajax', 'accordion', 'jquery ui accordion']
+document_f1: 0.285714285714
+phrase: []
+tags: ['html', 'css', 'printing', 'background']
+document_f1: 0
+phrase: [('advance', 0.012964620855859286), ('release', 0.011934481071706337), ('advice', 0.011781838492058648)]
+tags: ['xml', 'oracle', 'plsql']
+document_f1: 0
+phrase: [('response', 0.03292160392749029)]
+tags: ['asp.net', 'asp.net web api']
+document_f1: 0
+phrase: [('ajax', 0.03503663226846626), ('callback', 0.02104982055660586)]
+tags: ['javascript', 'jquery', 'python', 'ajax', 'twisted']
+document_f1: 0.285714285714
+phrase: [('version', 0.04071485398401707), ('reference', 0.019660040191249846), ('vs', 0.01729800407986819)]
+tags: ['.net', 'devexpress']
+document_f1: 0
+phrase: [('class', 0.027672853476757502)]
+tags: ['javascript']
+document_f1: 0
+phrase: [('data', 0.011750124140382734)]
+tags: ['mysql', 'group by', 'max']
+document_f1: 0
+phrase: []
+tags: ['c#', 'sql', 'sql server', 'tsql']
+document_f1: 0
+phrase: [('file', 0.028062013670345907)]
+tags: ['asp.net']
+document_f1: 0
+phrase: [('get', 0.017816089231693477), ('feb', 0.007875599660231962), ('connection', 0.00498224446796488), ('corrections', 0.004723499526707208), ('language', 0.004694246486655149)]
+tags: ['google chrome', 'curl', 'nginx']
+document_f1: 0
+phrase: [('jetty', 0.027282374649494134), ('warn', 0.024116632463321193), ('service', 0.019764962029674978), ('javalangclassnotfoundexception', 0.019503548069995755), ('error', 0.0193646343774044)]
+tags: ['xml', 'maven', 'servlets', 'jetty']
+document_f1: 0.222222222222
+phrase: [('way', 0.030452625046582835), ('request', 0.027437970120219982), ('solution', 0.014430664810890542), ('thanks', 0.013570589391665944), ('case', 0.012774491136888156)]
+tags: ['java', 'asynchronous', 'future']
+document_f1: 0
+phrase: [('cubers', 0.03128213690967286), ('totalbots', 0.013551355702717855), ('zoomlvl', 0.01219734766562625), ('int', 0.012155711809602603), ('square', 0.010798122009733707)]
+tags: ['c++', 'opengl', 'freeglut']
+document_f1: 0
+phrase: [('openclownorderlines', 0.020919119695311406)]
+tags: ['filemaker']
+document_f1: 0
+phrase: [('pattern', 0.045735832104348076), ('point', 0.04312885662113568), ('dj', 0.025363015841712667), ('visit', 0.018110950647480657), ('length', 0.015572363286455365)]
+tags: ['c++', 'algorithm', 'combinations', 'permutation']
+document_f1: 0
+phrase: [('width', 0.06270566725944592), ('igraph', 0.05109339322655012)]
+tags: ['r', 'attr', 'igraph', 'edges']
+document_f1: 0.333333333333
+phrase: [('complexity', 0.0623288219524343), ('assume', 0.02305338602524881), ('log', 0.01240787778038386)]
+tags: ['algorithm', 'complexity theory']
+document_f1: 0
+phrase: [('today', 0.03124340524019656), ('array', 0.009402792035079603)]
+tags: ['fullcalendar']
+document_f1: 0
+phrase: [('activity', 0.03740087800189204), ('ridimageverkkovirhe', 0.00943991040538132), ('force', 0.00941469569079205)]
+tags: ['android', 'android layout', 'android activity', 'connection', 'android manifest']
+document_f1: 0
+phrase: [('configurationproperties', 0.024731592719913025), ('propdeps', 0.0194744713528604), ('class', 0.018652993324415827), ('work', 0.00921699960697676), ('resourceserverproperties', 0.007987258834828355)]
+tags: ['java', 'spring', 'spring boot', 'configuration', 'property files']
+document_f1: 0
+phrase: [('something', 0.038846860993703346), ('keyword', 0.03390475909593675)]
+tags: ['node.js', 'templates', 'ejs']
+document_f1: 0
+phrase: [('subclasses', 0.008201362659299188), ('read', 0.007410528206339645)]
+tags: ['java', 'subclass', 'instantiation']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net']
+document_f1: 0
+phrase: [('builderappend', 0.03811895987751157), ('tostring', 0.011590140201297068), ('information', 0.010394275218625303)]
+tags: ['c#', 'networking', 'dhcp']
+document_f1: 0
+phrase: [('mins', 0.05366837346590774)]
+tags: ['android', 'database']
+document_f1: 0
+phrase: [('countries', 0.021632738878257476), ('cell', 0.01748108663757874), ('angeles', 0.004531002849530327), ('push', 0.0036043241914307813)]
+tags: ['iphone', 'uitableview']
+document_f1: 0
+phrase: [('dim', 0.03125932707335351), ('html', 0.02032221795203978), ('serverhtmldecode', 0.005534828934849339)]
+tags: ['asp.net', 'vb.net']
+document_f1: 0
+phrase: [('merhaba', 0.057496108151996676), ('hello', 0.039625301489476), ('access', 0.02025594039925252), ('linq', 0.013098834420790663)]
+tags: ['c#', 'xml', 'linq']
+document_f1: 0.285714285714
+phrase: [('value', 0.044170097914635116), ('transid', 0.041481561930520314), ('procedure', 0.02559790347064657), ('net', 0.008394435453641609)]
+tags: ['.net', 'sql server', 'vb.net 2010', 'sqlcommand', 'sqlclient']
+document_f1: 0
+phrase: [('xxx', 0.024074923255967554), ('visit', 0.013323252651606898), ('smtp', 0.008295707638660764)]
+tags: ['ruby', 'email']
+document_f1: 0
+phrase: [('space', 0.03586574747479273), ('as3', 0.03493822672022366)]
+tags: ['actionscript 3', '3d']
+document_f1: 0
+phrase: [('information', 0.04201321254020761), ('access', 0.025440404878058424)]
+tags: ['jquery', 'html', 'css']
+document_f1: 0
+phrase: [('substring', 0.023212667115642703), ('output', 0.015039552270260331), ('call', 0.01488882587047724), ('box', 0.013666023741282672)]
+tags: ['xml', 'xslt']
+document_f1: 0
+phrase: [('permissions', 0.027062748906755366), ('people', 0.016166345994284462), ('default', 0.015300839074013698)]
+tags: ['sql server', 'computer science']
+document_f1: 0
+phrase: [('myclasswithretrospection', 0.0252935125070256), ('anyone', 0.014642002050489981), ('retrospect', 0.009980799449105881)]
+tags: ['php', 'reflection']
+document_f1: 0
+phrase: [('data', 0.04139843060200902), ('struct', 0.02077007849163677), ('bytes', 0.020239652400140563), ('practice', 0.01769475345470433), ('telegrams', 0.010023076856304462)]
+tags: ['c++', 'qt', 'serialization', 'qbytearray']
+document_f1: 0
+phrase: [('d1', 0.0092936821145831), ('fe', 0.008199081827660087)]
+tags: ['android', 'nfc', 'ndef']
+document_f1: 0
+phrase: [('value', 0.031170401546360138), ('bitmap', 0.017650231292203784), ('dbconcurrencyexception', 0.013931401669124877), ('change', 0.012074437926432573), ('thisdrawtobitmap', 0.005718621480147018)]
+tags: ['c#', '.net', 'winforms', 'data binding']
+document_f1: 0
+phrase: [('eventtype', 0.02897391967825338), ('movx', 0.016518076943773555)]
+tags: ['python', 'pygame']
+document_f1: 0
+phrase: [('value', 0.041167897534071976), ('textview', 0.023948160352380444), ('answer', 0.011340216818153136)]
+tags: ['android']
+document_f1: 0
+phrase: [('script', 0.030755477160439616), ('something', 0.019684282308098315), ('parameters', 0.01587596093413001)]
+tags: ['javascript', 'html', 'redirect', 'url redirection']
+document_f1: 0
+phrase: [('text', 0.05410482311174672), ('wrap', 0.036061194472733635), ('html', 0.02415704702296092), ('magna', 0.017999864674935178)]
+tags: ['html', 'ruby', 'parsing', 'nokogiri']
+document_f1: 0.25
+phrase: [('rownames', 0.06082943921130182), ('dataframe', 0.060740927081486616), ('column', 0.050674831393112005), ('question2c', 0.02391400122563011), ('question3c', 0.0171012952559422)]
+tags: ['r']
+document_f1: 0
+phrase: [('data', 0.030254993176944762), ('method', 0.026894719579594682), ('itemprintplantcode', 0.012982881785647419), ('itemprintprice', 0.012700577299511262), ('something', 0.008951748040006159)]
+tags: ['c#', 'asp.net', '.net']
+document_f1: 0
+phrase: [('function', 0.039478051315284785), ('query', 0.037372182906068), ('directory', 0.01761109488547125), ('things', 0.01673701835244065), ('information', 0.00999937876176626)]
+tags: ['php', 'mysql', 'pagination']
+document_f1: 0
+phrase: [('time', 0.010967291249298086), ('sep', 0.010587676093304781), ('kwargs', 0.009896668441954994), ('packages', 0.009151410160470358)]
+tags: ['python', 'django', 'python 2.7']
+document_f1: 0
+phrase: [('work', 0.0104739614732337)]
+tags: ['python', 'openerp', 'odoo 8']
+document_f1: 0
+phrase: [('baetur', 0.04173026323586699), ('print', 0.021599102456375606), ('ellilifeyrir', 0.01792240912868913), ('aldur', 0.016098748352139265), ('value', 0.015929035198237587)]
+tags: ['python', 'variables', 'dynamic']
+document_f1: 0
+phrase: [('value', 0.023018211520782147), ('restcontrolvalidator', 0.013434629802436662)]
+tags: ['java', 'spring', 'rest', 'spring mvc']
+document_f1: 0
+phrase: [('fragment', 0.0699842868880584)]
+tags: ['android', 'android fragments']
+document_f1: 0
+phrase: [('chrome', 0.030052954242014207), ('system', 0.014160954630533878)]
+tags: ['nginx', 'centos', 'vagrant', 'virtualbox']
+document_f1: 0
+phrase: [('data', 0.04220485589042017), ('div', 0.0230804922671939), ('jquery', 0.008402596246893273)]
+tags: ['javascript', 'jquery', 'html', 'css', 'twitter bootstrap']
+document_f1: 0.25
+phrase: [('line', 0.022166924639320906)]
+tags: ['c#', 'winforms', 'linq', 'parallel processing', 'locking']
+document_f1: 0
+phrase: [('ios', 0.018095299893028948)]
+tags: ['ios', 'core data']
+document_f1: 0.666666666667
+phrase: [('float', 0.009347808212203653)]
+tags: ['javascript', 'jquery', 'html', 'jquery ui', 'jquery plugins']
+document_f1: 0
+phrase: []
+tags: ['c#', 'printing', 'process', 'ms word']
+document_f1: 0
+phrase: [('ar', 0.04035734085965698), ('systemoutprintln', 0.027893498094717216), ('player2', 0.023064382033322735), ('int', 0.022120033248645032), ('player', 0.020851025058629638)]
+tags: ['java']
+document_f1: 0
+phrase: [('connect', 0.031210617697160773), ('intent', 0.016786981624727818), ('reason', 0.00803928512757567), ('mlocationclientrequestlocationupdates', 0.007138649765094318)]
+tags: ['android', 'geolocation', 'google play services']
+document_f1: 0
+phrase: [('items', 0.030751356394590604)]
+tags: ['flex', 'itemrenderer']
+document_f1: 0
+phrase: [('ways', 0.007501466029138507)]
+tags: ['visual studio 2010', 'performance', 'visual studio', 'ide']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net']
+document_f1: 0
+phrase: [('structure', 0.04399134872395381)]
+tags: ['javascript', 'jquery', 'asp.net mvc', 'jquery mobile']
+document_f1: 0
+phrase: [('crm', 0.03510949651339595), ('impression', 0.031609524394252755), ('compare', 0.023790540279061287), ('notice', 0.021773559859606842), ('article', 0.021183099492680366)]
+tags: ['dynamics crm online', 'dynamics crm 2013']
+document_f1: 0
+phrase: [('image', 0.04632412897354234), ('sidebar', 0.027050825215090623), ('viewport', 0.01684336331881359), ('column', 0.005396771653581991), ('problem', 0.005305809345766254)]
+tags: ['css', 'wordpress', 'responsive design']
+document_f1: 0
+phrase: [('httppost', 0.03185750915192495), ('value', 0.020566723431904466), ('parameters', 0.01776709113476095), ('body', 0.014952591133246308)]
+tags: ['java', 'http post', 'apache httpcomponents']
+document_f1: 0
+phrase: [('bank', 0.07938209867570858), ('group', 0.036651588543506926), ('business', 0.012825220439279894)]
+tags: ['sql server', 'sql server 2008']
+document_f1: 0
+phrase: [('grails', 0.012522054511267984)]
+tags: ['grails', 'grails 2.2']
+document_f1: 0.666666666667
+phrase: [('businessobject', 0.07555113171737309)]
+tags: ['javascript', 'amd', 'durandal', 'hottowel']
+document_f1: 0
+phrase: [('something', 0.014467552730788369), ('look', 0.014324748314039707), ('help', 0.011339320953067982)]
+tags: ['bash', 'browser', 'tabs', 'automation', 'mouse']
+document_f1: 0
+phrase: [('trace', 0.02496663644287387), ('xml', 0.018850457757706343), ('traceflagsewsresponse', 0.00869129747268756), ('microsoftexchangewebservicesdata', 0.005851388107973106), ('microsoftexchangewebservices', 0.003733238521285402)]
+tags: ['c#', 'ews', 'autodiscovery']
+document_f1: 0
+phrase: [('dim', 0.04163341226675251), ('playership', 0.01688328597502196), ('playerspeed', 0.01617352578126422), ('handles', 0.009643076297480294), ('bbg', 0.005647049725103878)]
+tags: ['vb.net']
+document_f1: 0
+phrase: [('class', 0.09707396818650864), ('systemoutprintln', 0.04974642511985944)]
+tags: ['java']
+document_f1: 0
+phrase: [('button', 0.055401812342563556)]
+tags: ['android']
+document_f1: 0
+phrase: [('teller', 0.029723976340411146), ('items', 0.011089049309408296), ('meet', 0.00925923634449154), ('bestelde', 0.005318250442168611), ('anders', 0.004385335413827085)]
+tags: ['javascript', 'html5']
+document_f1: 0
+phrase: [('error', 0.013927305934868092), ('thisstateparams', 0.01278310488848984), ('do\xc3', 0.006036537828365178)]
+tags: ['javascript', 'web applications', 'reactjs']
+document_f1: 0
+phrase: [('file', 0.04141366491871399), ('bkworksheets', 0.010539146784609455), ('ms', 0.006095572171330754)]
+tags: ['excel', 'vba', 'excel vba', 'path']
+document_f1: 0
+phrase: [('thank', 0.02507118776577077)]
+tags: ['html', 'css', 'themes', 'tumblr', 'overlap']
+document_f1: 0
+phrase: [('limit', 0.009727931452994913), ('photomark', 0.008791431175034444)]
+tags: ['php', 'title', 'space']
+document_f1: 0
+phrase: [('id', 0.05846322799195526), ('area', 0.0560983359282939), ('averagevolume', 0.04584110356127695), ('data', 0.04397098171706368), ('quotevolume', 0.04155636109816606)]
+tags: ['java']
+document_f1: 0
+phrase: [('eandroidruntime', 0.10608822323394873), ('error', 0.01731699928033078), ('comandroidinternaloszygoteinit', 0.012298558346288672), ('androidappactivitythreadaccess', 0.011579277435461147)]
+tags: ['android', 'android widget', 'forceclose']
+document_f1: 0
+phrase: [('nt', 0.009965755978011593)]
+tags: ['vb.net', 'active directory', 'ldap']
+document_f1: 0
+phrase: [('paramsstartup', 0.019559933612787666), ('something', 0.019121694970411652)]
+tags: ['function', 'lua']
+document_f1: 0
+phrase: [('hide', 0.03229299008419034)]
+tags: ['google chrome', 'google chrome devtools']
+document_f1: 0
+phrase: [('struct', 0.07558205164850619)]
+tags: ['c++', 'c']
+document_f1: 0
+phrase: [('cell', 0.031060096030245204), ('value', 0.029794474650523116)]
+tags: ['jupyter', 'jupyter notebook']
+document_f1: 0
+phrase: [('role', 0.06635083498612016), ('object', 0.0486997566334964), ('foreach', 0.046379823491845384), ('something', 0.02362568299546025), ('list', 0.022101341929816904)]
+tags: ['c#', 'linq', 'dictionary']
+document_f1: 0
+phrase: [('clnlast', 0.08185235741236399), ('compare', 0.01865757588513999)]
+tags: ['sql', 'oracle']
+document_f1: 0
+phrase: [('timer1', 0.06755252503410625), ('miss', 0.02643088702888583), ('timer2interval', 0.021213246748547687), ('change', 0.014782897171019953)]
+tags: ['c#', '.net', 'winforms', 'timer']
+document_f1: 0
+phrase: [('value', 0.046863181990977505), ('execute', 0.02495912939757404), ('ask', 0.02329195961119749), ('page', 0.017141667281624473), ('input', 0.01170071840138908)]
+tags: ['ocaml']
+document_f1: 0
+phrase: [('mode', 0.009597745174918213), ('press', 0.004653260786744991)]
+tags: ['emacs', 'elisp', 'org mode']
+document_f1: 0
+phrase: [('heirarchy', 0.01007940776666473), ('decisions', 0.009557811829478022)]
+tags: ['wpf', 'mvvm']
+document_f1: 0
+phrase: [('server', 0.029020225487365083), ('know', 0.01577857178043851), ('thing', 0.01321896466787446)]
+tags: ['php']
+document_f1: 0
+phrase: []
+tags: ['java', 'spring', 'dependency injection']
+document_f1: 0
+phrase: [('class', 0.09523001848199683), ('question', 0.026672900522954127), ('anything', 0.01897888343231575)]
+tags: ['java', 'class']
+document_f1: 0.4
+phrase: [('data', 0.05527593534846384), ('properties', 0.022746731879022923)]
+tags: ['sql server', 'import from excel']
+document_f1: 0
+phrase: [('file', 0.045873364310237294), ('php', 0.017149769607837314), ('div', 0.015302472646955528), ('family', 0.014134366882344717)]
+tags: ['php', 'spaces']
+document_f1: 0.333333333333
+phrase: [('separate', 0.025773544324860717)]
+tags: ['visual studio', 'coding style']
+document_f1: 0
+phrase: [('cars', 0.049892447264800605), ('qu', 0.034855673531428745), ('data', 0.03206442482323389), ('max', 0.02211837950562899), ('mean', 0.019837791589793246)]
+tags: ['r', 'grouping', 'category', 'subset']
+document_f1: 0
+phrase: [('space', 0.019019331764033143), ('number', 0.015826671216273732)]
+tags: ['python', 'windows', 'git', 'vim', 'git bash']
+document_f1: 0
+phrase: [('length', 0.033541847751386016), ('matlab', 0.03168822206410358), ('shift', 0.028754119121282007)]
+tags: ['python', 'matlab', 'numpy']
+document_f1: 0.333333333333
+phrase: []
+tags: ['iphone']
+document_f1: 0
+phrase: [('reqviewargs', 0.005532819068728644)]
+tags: ['python', 'flask', 'gmail', 'flask security', 'flask mail']
+document_f1: 0
+phrase: [('function', 0.04277721484649082), ('model', 0.04074009580491567), ('submit', 0.015323631308106649), ('deal', 0.0121730509858095), ('ones', 0.011976124343307575)]
+tags: ['javascript', 'node.js', 'mongodb', 'express']
+document_f1: 0
+phrase: [('root', 0.025033238784740834), ('everything', 0.014318770876516783), ('something', 0.012242339661958998)]
+tags: ['c#', 'json', 'serialization', 'javascriptserializer']
+document_f1: 0
+phrase: [('way', 0.02860773586542297)]
+tags: ['spring integration']
+document_f1: 0
+phrase: []
+tags: ['c++', 'linux', 'sqlite']
+document_f1: 0
+phrase: [('int', 0.04212650946591777), ('error', 0.033008766275772705), ('return', 0.022919202327208076)]
+tags: ['c++']
+document_f1: 0
+phrase: [('nouns', 0.06241638883037691)]
+tags: ['python', 'nltk', 'wordnet']
+document_f1: 0
+phrase: [('systemwebextensions', 0.021762596952030942), ('mouse', 0.015864723163039364)]
+tags: ['c#', 'asp.net', '.net', 'user controls']
+document_f1: 0
+phrase: [('none', 0.02559147420613039), ('font', 0.02072522262654982), ('color', 0.017607842818501574), ('float', 0.01575217285416905), ('margin', 0.014496217179054386)]
+tags: ['javascript', 'html', 'css', 'navigation']
+document_f1: 0
+phrase: []
+tags: ['ruby on rails']
+document_f1: 0
+phrase: []
+tags: ['c++', 'regex', 'c++11', 'std']
+document_f1: 0
+phrase: [('version', 0.009557370461780727), ('package', 0.008288886051064016), ('language', 0.0065404206164114), ('todo', 0.0056051705877400845), ('encode', 0.005393743255103615)]
+tags: ['wix', 'wix3.5']
+document_f1: 0
+phrase: [('table', 0.0854157107172866), ('reason', 0.01806505598704386), ('solution', 0.015111908751121285)]
+tags: ['mysql', 'database design', 'database schema']
+document_f1: 0
+phrase: [('toastsetduration', 0.009376809549423413)]
+tags: ['android', 'user interface', 'dalvik', 'toast']
+document_f1: 0
+phrase: [('tutorials', 0.03053624709379084), ('face', 0.025629884029029742), ('teach', 0.024085500921889325), ('answer', 0.021609349449902608)]
+tags: ['c#']
+document_f1: 0
+phrase: [('help', 0.022895557893553332)]
+tags: ['android', 'arduino', 'app inventor']
+document_f1: 0
+phrase: [('ajax', 0.02065895518198319), ('stacktrace', 0.01271728137485614)]
+tags: ['c#', 'jquery', 'ajax']
+document_f1: 0.4
+phrase: []
+tags: ['networking', 'ip', 'usb', 'raspberry pi', 'adapter']
+document_f1: 0
+phrase: []
+tags: ['java', 'excel', 'file', 'locking', 'apache poi']
+document_f1: 0
+phrase: [('name', 0.162043509553357)]
+tags: ['c++', 'visual c++', 'io']
+document_f1: 0
+phrase: [('http', 0.035188092754824464)]
+tags: ['oracle', 'tag cloud', 'endeca']
+document_f1: 0
+phrase: []
+tags: ['asp.net', 'javascript']
+document_f1: 0
+phrase: [('arguments', 0.015453239006542299)]
+tags: ['python', 'class']
+document_f1: 0
+phrase: []
+tags: ['ruby', 'csv']
+document_f1: 0
+phrase: [('direction', 0.024681893659308132), ('circle', 0.01717683912643247)]
+tags: ['java', 'vector', 'awt', 'java 2d']
+document_f1: 0
+phrase: [('terminate', 0.009053000751695328), ('alternatives', 0.0073873630476205395)]
+tags: ['c++', 'exit', 'c++03']
+document_f1: 0
+phrase: [('app', 0.02164834448670356), ('background', 0.019457770081398956), ('let', 0.016538469630074455), ('options', 0.007026563972381454), ('restart', 0.00608144148896878)]
+tags: ['ios', 'multithreading', 'swift2']
+document_f1: 0
+phrase: []
+tags: ['c++', 'class', 'namespaces', 'compiler errors']
+document_f1: 0
+phrase: [('reservations', 0.03907224860639494), ('bootstrap', 0.029759609772053046)]
+tags: ['jquery', 'html', 'ios', 'css', 'twitter bootstrap']
+document_f1: 0
+phrase: [('see', 0.01898937867005175), ('elements', 0.017646033541475918)]
+tags: ['c#', '.net', 'file']
+document_f1: 0
+phrase: [('answer', 0.011294700059908092), ('apologies', 0.011201970748701804), ('tons', 0.010948381206237935), ('users', 0.008293328878737776)]
+tags: ['c#', 'asp.net', 'asp.net mvc', 'asp.net mvc 4', 'razor']
+document_f1: 0
+phrase: [('issue', 0.027510215393797877), ('picture', 0.01312135757815429)]
+tags: ['android']
+document_f1: 0
+phrase: [('time', 0.020543350247512394)]
+tags: ['iphone', 'ios', 'objective c', 'uitableview', 'uitoolbar']
+document_f1: 0
+phrase: [('grep', 0.05499750814681095), ('help', 0.037350459985153274), ('result', 0.03258711323346273)]
+tags: ['linux', 'shell', 'grep']
+document_f1: 0.333333333333
+phrase: [('kvo', 0.08763843531090237)]
+tags: ['iphone', 'cocoa', 'ios', 'nsmutablearray', 'key value observing']
+document_f1: 0
+phrase: [('cameraactivity', 0.010483069919779655), ('error', 0.010091715792217558), ('mcamerasetdisplayorientation', 0.006314698479518142), ('activity', 0.00627369826113991), ('methodjava511', 0.0051191537835931404)]
+tags: ['android', 'camera']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net']
+document_f1: 0
+phrase: []
+tags: ['python', 'django']
+document_f1: 0
+phrase: [('something', 0.016347069060903288), ('tell', 0.016293729963738606), ('solution', 0.014920042942277178), ('layoutmodules', 0.007157442753009669)]
+tags: ['jquery', 'json', 'getjson']
+document_f1: 0
+phrase: [('someone', 0.047935298459642665), ('problems', 0.023751863851879253)]
+tags: ['c', 'embedded', 'ucos']
+document_f1: 0
+phrase: [('line', 0.08889473139383207), ('line2', 0.024828433093479766), ('output', 0.021144923699069253), ('return', 0.017200607962390455), ('code', 0.012945367875467826)]
+tags: ['c++', 'oop', 'c++11', 'constructor']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'wordpress']
+document_f1: 0
+phrase: []
+tags: ['python', 'apache spark', 'pyspark', 'rdd']
+document_f1: 0
+phrase: [('code', 0.019434032021691895), ('arrays', 0.011786943570517612)]
+tags: ['excel vba', 'user defined functions', 'dynamic arrays']
+document_f1: 0
+phrase: [('run', 0.09089472262386994), ('animation', 0.07149822801684615), ('way', 0.05126790452799623), ('view', 0.05080839981110253)]
+tags: ['ios', 'objective c', 'uiviewanimation']
+document_f1: 0
+phrase: []
+tags: ['java', 'swing', 'user interface', 'jbutton']
+document_f1: 0
+phrase: [('code', 0.09137706049168969), ('example', 0.011189472302259565)]
+tags: ['python', 'eclipse', 'pydev']
+document_f1: 0
+phrase: [('target', 0.02755621390214713)]
+tags: ['java']
+document_f1: 0
+phrase: []
+tags: ['redis']
+document_f1: 0
+phrase: [('project', 0.031169200174657567), ('try', 0.024664565974027657), ('view', 0.018291817102735884)]
+tags: ['python', 'django', 'view']
+document_f1: 0.333333333333
+phrase: [('function', 0.033544713088034694), ('nt', 0.023992681700989137), ('implementation', 0.019913477791114315), ('minute', 0.019348243400044995)]
+tags: ['haskell']
+document_f1: 0
+phrase: [('imports', 0.02551744418848723), ('dim', 0.022000200707790744), ('cs', 0.00605124739436794)]
+tags: ['events', 'raise']
+document_f1: 0
+phrase: [('menu', 0.027119488348864827), ('position', 0.015364375821480506), ('height', 0.008795602249470534), ('vice', 0.005725442203608681), ('margin', 0.004703519552539915)]
+tags: ['javascript', 'jquery', 'html', 'css']
+document_f1: 0
+phrase: [('memory', 0.050017805250103166), ('int', 0.03411502980342009), ('bytes', 0.027051383534283924), ('variables', 0.018608284016683473)]
+tags: ['c', 'pointers']
+document_f1: 0
+phrase: [('button', 0.09328718115141206), ('go', 0.0348394178705728), ('case', 0.019381935070808754), ('program', 0.013976271663992651)]
+tags: ['android', 'android activity']
+document_f1: 0
+phrase: [('event', 0.03720501087117908), ('return', 0.03606287876663329), ('play', 0.032693764183029696), ('rotatetransitionsettoangle', 0.015206874215683007), ('rotatetransitionstop', 0.014830081709892)]
+tags: ['java', 'animation', 'javafx', 'rotation']
+document_f1: 0
+phrase: [('phone', 0.05933981696138995), ('degrees', 0.04241416427582891)]
+tags: ['android', 'layout gravity']
+document_f1: 0
+phrase: [('code', 0.1267220584115124)]
+tags: ['php', 'wordpress']
+document_f1: 0
+phrase: []
+tags: ['php', 'laravel', 'laravel 4']
+document_f1: 0
+phrase: [('something', 0.03590352951832217)]
+tags: ['date', 'mobile', 'time', 'oracle adf', 'oracle maf']
+document_f1: 0
+phrase: [('button', 0.025735579889181646)]
+tags: ['jquery mobile']
+document_f1: 0
+phrase: [('column', 0.046019245416337846)]
+tags: ['javascript', 'checkbox', 'google visualization']
+document_f1: 0
+phrase: [('nothing', 0.02264051718520598), ('base', 0.014607234734082169), ('vbdefaultbutton2', 0.004679561453832851)]
+tags: ['vba', 'outlook', 'outlook vba']
+document_f1: 0
+phrase: [('ccs', 0.02548965742635004)]
+tags: ['java', 'android', 'xmpp', 'google cloud messaging']
+document_f1: 0
+phrase: [('value', 0.06970311669659925)]
+tags: ['javascript']
+document_f1: 0
+phrase: [('windows', 0.032833963812766015), ('clients', 0.02729116500352581), ('use', 0.02375470574535652), ('clientserver', 0.01685337873527913)]
+tags: ['c#', 'wcf', 'client server', 'win universal app', 'uwp']
+document_f1: 0
+phrase: [('version', 0.02396219799132564), ('please', 0.014439310494267645), ('anne', 0.01261341243098008), ('mm', 0.012389009252841435), ('bob', 0.01228883159823256)]
+tags: ['mysql', 'mysql error 1064']
+document_f1: 0
+phrase: [('get', 0.04554863817118551), ('div', 0.03604108375716125), ('semiconductors', 0.027157591125577345), ('tag', 0.02495362074338085)]
+tags: ['python', 'beautifulsoup']
+document_f1: 0
+phrase: [('operations', 0.0236077015935846), ('xyz', 0.01992554796413747), ('anything', 0.013799985306613765), ('info', 0.013334058618676248), ('java', 0.013326514094031305)]
+tags: ['java', 'data structures']
+document_f1: 0.285714285714
+phrase: [('scroll', 0.08747600802389778)]
+tags: ['javascript', 'jquery', 'html', 'css']
+document_f1: 0
+phrase: [('roles', 0.050418118185576115), ('users', 0.014573114715789773)]
+tags: ['jsp', 'config', 'shiro']
+document_f1: 0
+phrase: [('developers', 0.019599330313721214), ('instantiate', 0.0077972190899068565), ('clue', 0.006542304137674519)]
+tags: ['coldfusion', 'cfc']
+document_f1: 0
+phrase: [('element', 0.0437311312146964), ('html', 0.02669900208392481)]
+tags: ['javascript', 'jquery']
+document_f1: 0
+phrase: [('help', 0.03860657750375017), ('ababab', 0.03156103063430828)]
+tags: ['bnf', 'ebnf']
+document_f1: 0
+phrase: [('activities', 0.013104147224633567), ('mnavigationdrawer', 0.008321474951555025), ('actionbaractivity', 0.005974377518365222)]
+tags: ['android']
+document_f1: 0
+phrase: []
+tags: ['iphone', 'objective c', 'xcode', 'cocos2d iphone']
+document_f1: 0
+phrase: [('netbeans', 0.020516631087543973), ('anything', 0.019173916089898442)]
+tags: ['c++', 'netbeans']
+document_f1: 0.5
+phrase: [('focus', 0.042932630789793536)]
+tags: ['javascript', 'forms', 'dynamic', 'input', 'textinput']
+document_f1: 0
+phrase: [('read', 0.017168670801081934), ('date', 0.015510653868498349)]
+tags: ['jsf', 'java ee', 'singleton', 'ejb']
+document_f1: 0
+phrase: []
+tags: ['image processing']
+document_f1: 0
+phrase: [('thoughts', 0.012536230135978184), ('yahoocom', 0.008532280316362918)]
+tags: ['.htaccess']
+document_f1: 0
+phrase: [('div', 0.07744001139119985), ('cookies', 0.01804534855410855), ('way', 0.01654978764898265)]
+tags: ['jquery', 'class', 'html']
+document_f1: 0
+phrase: [('case', 0.06582274217584928), ('time', 0.03443812486188189), ('oncreatedialog', 0.027258341450518905), ('alot', 0.018693265424358757)]
+tags: ['android']
+document_f1: 0
+phrase: [('cell', 0.04130335753470864), ('behaviour', 0.01101424420789975)]
+tags: ['angularjs', 'angular ui grid']
+document_f1: 0
+phrase: [('margin', 0.011364041848197951), ('gridrow', 0.008739996123627705)]
+tags: ['c#', 'wpf', 'combobox', 'propertychanged']
+document_f1: 0
+phrase: [('iphone', 0.02495614318227717)]
+tags: ['ios', 'iphone', 'objective c', 'google maps', 'uiapplication']
+document_f1: 0.333333333333
+phrase: [('grids', 0.04604396586071725), ('record', 0.04479696259647661), ('data', 0.030066110589199748), ('engineers', 0.023275316081607437), ('doctor', 0.012457751744977656)]
+tags: ['extjs']
+document_f1: 0
+phrase: []
+tags: ['c#', '.net', 'winforms', 'custom controls', 'windows forms designer']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'jquery', 'wordpress', 'jquery plugins']
+document_f1: 0
+phrase: [('hop', 0.010498764510705801)]
+tags: ['join', 'ms access 2010']
+document_f1: 0
+phrase: [('name', 0.025144377919842878), ('size', 0.010274075301084111), ('error', 0.008014236779853731)]
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: [('headers', 0.007942218413115345), ('something', 0.00594487389800691), ('examples', 0.005110091054912516), ('attempt', 0.004729314031413026), ('returnlocationlocationcode', 0.00320549262607037)]
+tags: ['php', 'xml', 'soap', 'service']
+document_f1: 0
+phrase: [('help', 0.015228128427008566), ('things', 0.00940410870690194), ('consolelog', 0.006865283256337273), ('mvc', 0.00455530477289808)]
+tags: ['c#', 'xmlhttprequest', 'asp.net core', 'asp.net core mvc']
+document_f1: 0
+phrase: [('column', 0.045930666244647686), ('value', 0.03606485823944106), ('example', 0.03269803270410278), ('columnvariablesizes', 0.02729734401725243), ('nt', 0.011721057537791433)]
+tags: ['truthtable']
+document_f1: 0
+phrase: [('thanks', 0.00477362848618982)]
+tags: ['java', 'netbeans', 'primefaces']
+document_f1: 0
+phrase: [('something', 0.04439647713162098), ('luck', 0.024268259075059327)]
+tags: ['jquery']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'jquery']
+document_f1: 0
+phrase: [('aug', 0.03323843370468529), ('jsonlog', 0.022978307759315135), ('varlibdockercontainers', 0.02293717612473426), ('containers', 0.02009599564220548), ('rw', 0.019224900999573066)]
+tags: ['docker', 'fluentd']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'c#', 'visual studio', 'authentication', 'visual studio lightswitch']
+document_f1: 0
+phrase: [('nt', 0.027197935971494853)]
+tags: ['c++', 'casting']
+document_f1: 0
+phrase: []
+tags: ['google analytics', 'tags', 'manager', 'variant', 'variants']
+document_f1: 0
+phrase: [('default', 0.03789525221875386), ('chef', 0.034235951198189826), ('cookbook', 0.015428457423113332), ('client', 0.014379701130890436), ('info', 0.01002043113052924)]
+tags: ['vagrant', 'chef', 'vagrantfile', 'chef solo', 'vagrant windows']
+document_f1: 0.2
+phrase: []
+tags: ['php', 'tags', 'title', 'meta']
+document_f1: 0
+phrase: [('database', 0.01619292384346271), ('define', 0.009459373755773689), ('others', 0.00689168721645065)]
+tags: ['javascript']
+document_f1: 0
+phrase: [('contain', 0.028812494766953245)]
+tags: ['zend framework2', 'zend form', 'zend form2', 'zend form collection', 'zend form fieldset']
+document_f1: 0
+phrase: [('asd', 0.07369172593265691), ('loop', 0.06620678163824753), ('advance', 0.060959734986950134)]
+tags: ['c#', 'string']
+document_f1: 0
+phrase: [('size', 0.021065076768912887)]
+tags: ['html', 'text to speech']
+document_f1: 0
+phrase: [('surface', 0.032629234089004346), ('result', 0.021929272422330517), ('cube', 0.02161918915271939), ('example', 0.020117080329076255), ('getpi', 0.014723042761144096)]
+tags: ['python', 'numpy', 'scipy']
+document_f1: 0
+phrase: [('value', 0.03162777859039202)]
+tags: ['javascript', 'jquery', 'angularjs']
+document_f1: 0
+phrase: []
+tags: ['javascript']
+document_f1: 0
+phrase: [('peer', 0.07599624149460603), ('carrier', 0.06332915260362727), ('nats', 0.02400985598847691)]
+tags: ['networking', 'p2p', 'bittorrent']
+document_f1: 0
+phrase: [('sdk', 0.0745696984083292)]
+tags: ['javascript', 'facebook', 'sdk']
+document_f1: 0.5
+phrase: [('rate', 0.019394719059305017), ('buffer', 0.010732062794223438), ('return', 0.009936941831397834), ('int', 0.009779501769816444), ('port', 0.009559357440766495)]
+tags: ['java', 'udp', 'stringbuilder', 'datagram']
+document_f1: 0
+phrase: [('robomongo', 0.1195227679070981)]
+tags: ['raspberry pi3', 'robomongo']
+document_f1: 0.666666666667
+phrase: [('example', 0.028577520375263704), ('show', 0.013951976704639083), ('background', 0.012007110770340616), ('index', 0.011157344131869546), ('hair', 0.0093531596206802)]
+tags: ['jquery', 'css', 'internet explorer 8', 'opacity']
+document_f1: 0
+phrase: [('behaviour', 0.06239198109360433)]
+tags: ['junit', 'infinite loop']
+document_f1: 0
+phrase: []
+tags: ['java', 'xml', 'servlets', 'servlet filters']
+document_f1: 0
+phrase: [('null', 0.01445620530812387), ('threadslength', 0.011634802134432503), ('messageslength', 0.006671942197184051)]
+tags: ['google apps script', 'google spreadsheet']
+document_f1: 0
+phrase: []
+tags: ['twitter', 'oauth']
+document_f1: 0
+phrase: [('help', 0.07944333946946906), ('database', 0.03424503182512805)]
+tags: ['java', 'android']
+document_f1: 0
+phrase: [('view', 0.04957881439280146), ('statement', 0.020484606718616474), ('minutes', 0.008469086718897574)]
+tags: ['oracle', 'performance', 'view']
+document_f1: 0.333333333333
+phrase: [('library', 0.036084076062876745), ('way', 0.00823537262408784)]
+tags: ['r', 'dplyr']
+document_f1: 0
+phrase: [('int', 0.04650487039451255), ('value', 0.0420176600515528), ('environment', 0.02777339800699096)]
+tags: ['assembly', 'nasm']
+document_f1: 0
+phrase: [('way', 0.010930591413281567), ('effect', 0.010532772092587947), ('account', 0.010147591164017738), ('second', 0.005578580178450291)]
+tags: ['jquery', 'loops']
+document_f1: 0
+phrase: [('cuda', 0.14695317126961333), ('cublassgemm', 0.07291516697434555)]
+tags: ['cuda', 'gpu', 'gpgpu']
+document_f1: 0.4
+phrase: []
+tags: ['html', 'favicon', 'server']
+document_f1: 0
+phrase: [('object', 0.0359131398125915), ('connection', 0.018142192065042202), ('delta', 0.014472667814086541), ('mib', 0.012398089842634501), ('kibs', 0.012113829525963259)]
+tags: ['git', 'heroku', 'push']
+document_f1: 0
+phrase: [('mc', 0.06766104723110715), ('event', 0.042819717983860035), ('button', 0.03718558761074348)]
+tags: ['actionscript 3', 'button', 'mouseevent', 'movieclip']
+document_f1: 0.285714285714
+phrase: [('error', 0.0903292309218185), ('mvc', 0.011592199523668953)]
+tags: ['asp.net mvc 4', 'visual studio 2012', 'azure', 'controller', 'runtime error']
+document_f1: 0
+phrase: [('time', 0.01935434954086713), ('execute', 0.016706043936777222), ('swap', 0.014508490430528025), ('someone', 0.014163780288284997), ('int', 0.013065821695122807)]
+tags: ['c', 'arrays']
+document_f1: 0
+phrase: [('array', 0.08740897122142002)]
+tags: ['python']
+document_f1: 0
+phrase: [('methods', 0.05049103031014136), ('database', 0.048366533147943994), ('deletefromdb', 0.029456934269199778)]
+tags: ['wpf', 'mvvm', 'model']
+document_f1: 0
+phrase: [('lfs', 0.03443916288236361), ('luafilesystem', 0.02847811979677969), ('function', 0.0268741193022214), ('value', 0.01922552739683408), ('work', 0.013299875415616079)]
+tags: ['lua', 'ubuntu 10.04']
+document_f1: 0
+phrase: [('table', 0.05749817762550234)]
+tags: ['ms access', 'c# 4.0', 'sharepoint 2010', 'oledb']
+document_f1: 0
+phrase: [('disp', 0.01826047553403468), ('hp', 0.013946820893407989), ('cyl', 0.013688083175045709), ('carb', 0.011946658191807133), ('gear', 0.011197751702556605)]
+tags: ['r']
+document_f1: 0
+phrase: [('something', 0.04365791821587528)]
+tags: ['c#', 'xna', 'audio', 'xact']
+document_f1: 0
+phrase: []
+tags: ['php', 'laravel']
+document_f1: 0
+phrase: [('gap', 0.041983688020076945), ('value', 0.012207723909973718), ('row', 0.010447175225873904), ('minute', 0.009365781787666904)]
+tags: ['google analytics', 'google analytics api']
+document_f1: 0
+phrase: [('customschema', 0.0524402386713314), ('import', 0.032978750869552806), ('openldap', 0.022422033458542306), ('export', 0.013897422740039338)]
+tags: ['schema', 'customization', 'openldap']
+document_f1: 0.285714285714
+phrase: [('user', 0.021805526123634775), ('hours', 0.0067435739736676995), ('question', 0.006362705334502788), ('entities', 0.004598038697975622)]
+tags: ['symfony2', 'doctrine2']
+document_f1: 0
+phrase: []
+tags: ['c++', 'casting']
+document_f1: 0
+phrase: [('remove', 0.052938123022994804), ('index', 0.013039467865231028), ('others', 0.012956383204533323), ('char', 0.01256093741336647), ('sure', 0.011377887916920695)]
+tags: ['c++', 'arrays']
+document_f1: 0
+phrase: [('txt', 0.033139456513584575), ('strings', 0.02341759586806611), ('look', 0.021082159070497108)]
+tags: ['android']
+document_f1: 0
+phrase: [('route', 0.040435344875836776), ('ruby', 0.015588095980481134)]
+tags: ['ruby on rails', 'routing']
+document_f1: 0
+phrase: [('hotspot', 0.020061445402164233), ('internet', 0.01703470888574567), ('settings', 0.01091870594984742), ('ideas', 0.009501623204075209)]
+tags: ['android', 'android wifi']
+document_f1: 0
+phrase: []
+tags: ['php', 'laravel', 'laravel 5.1', 'laravel 5.2', 'laravel routing']
+document_f1: 0
+phrase: [('thank', 0.01859692915199546), ('problems', 0.017124963275796795)]
+tags: ['osx', 'unity3d', 'fatal error', 'allocation']
+document_f1: 0
+phrase: [('media', 0.04043607736357514), ('thank', 0.029558179227178242)]
+tags: ['android']
+document_f1: 0
+phrase: [('let', 0.07192921232208675), ('request', 0.022284739637621252)]
+tags: ['swift2', 'twitter oauth', 'alamofire', 'oauth2']
+document_f1: 0
+phrase: []
+tags: ['xml', 'class', 'jar']
+document_f1: 0
+phrase: [('clientc', 0.01951478714875073), ('serverc', 0.013624811851537607), ('return', 0.011035310898825269), ('data', 0.011026056751078997), ('sleep', 0.008552503610834568)]
+tags: ['c', 'sockets', 'networking', 'tcp', 'polling']
+document_f1: 0
+phrase: [('help', 0.041488687439656585), ('link', 0.022556124472357577)]
+tags: ['twitter bootstrap', 'carousel']
+document_f1: 0
+phrase: [('version', 0.026902883725183215), ('rtmgdr030319', 0.016007628838328576), ('keywords', 0.012464682509051637), ('timespan', 0.006582970790802155), ('assemblies', 0.006112743214870098)]
+tags: ['c#', 'vsto', 'clickonce', 'office interop', 'outlook addin']
+document_f1: 0
+phrase: [('date', 0.07022310798835776), ('loc', 0.03834797442341907), ('hall', 0.03636780361557302)]
+tags: ['java', 'jdbc', 'sql update', 'prepared statement']
+document_f1: 0
+phrase: [('record', 0.06127629213006018), ('student', 0.03183320818851707), ('start', 0.01892046166107333), ('lists', 0.015518899100303437)]
+tags: ['emacs', 'elisp']
+document_f1: 0
+phrase: [('php', 0.014780516895417286)]
+tags: ['php', 'jquery']
+document_f1: 0.666666666667
+phrase: []
+tags: ['ios', 'xcode', 'uitextfielddelegate']
+document_f1: 0
+phrase: [('way', 0.022026817417182046)]
+tags: ['asp.net', 'data binding', 'webforms']
+document_f1: 0
+phrase: [('package', 0.01870919873332512), ('tool1341mt', 0.006140264725075764), ('python', 0.00485198346167254), ('os', 0.004430323024060547), ('case', 0.004161520959824073)]
+tags: ['node.js', 'windows', 'meteor', 'npm']
+document_f1: 0
+phrase: [('exceptions', 0.08280672423255998)]
+tags: ['c#', 'object', 'properties', 'enumerate']
+document_f1: 0
+phrase: [('edit', 0.030348803535534208)]
+tags: ['python', 'google app engine', 'web.py']
+document_f1: 0
+phrase: [('put', 0.041266974182802715)]
+tags: ['google app engine', 'google cloud datastore']
+document_f1: 0
+phrase: [('show', 0.023250898740929952), ('wordpress', 0.022328530048439904), ('problems', 0.01754003629375202)]
+tags: ['php', 'html', 'mysql', 'wordpress']
+document_f1: 0.285714285714
+phrase: [('tutorials', 0.024035638335626452)]
+tags: ['linux', 'i2c', 'beagleboneblack', 'real time clock']
+document_f1: 0
+phrase: [('looponlevels', 0.024386483594941638)]
+tags: ['php', 'function', 'loops', 'recursion', 'infinite']
+document_f1: 0
+phrase: []
+tags: ['ios', 'xcode']
+document_f1: 0
+phrase: [('status', 0.015220661402050487), ('format', 0.011803121456618973), ('body', 0.007545993648286536)]
+tags: ['ruby on rails', 'reactjs', 'react rails']
+document_f1: 0
+phrase: [('file', 0.04977213155223127)]
+tags: ['iphone', 'ios']
+document_f1: 0
+phrase: [('try', 0.13673821345759044)]
+tags: ['python', 'wxpython', 'wxwidgets']
+document_f1: 0
+phrase: [('file', 0.026357770111659552)]
+tags: ['c#', 'gdi+']
+document_f1: 0
+phrase: [('config', 0.05611291078295473), ('map', 0.03541771283003031), ('something', 0.017513163955867637), ('method', 0.016728607523370333), ('condition', 0.015230546930583563)]
+tags: ['java', 'spring']
+document_f1: 0
+phrase: []
+tags: ['spring', 'maven']
+document_f1: 0
+phrase: []
+tags: ['dynamic', 'jsf 2', 'el']
+document_f1: 0
+phrase: [('value', 0.049325706180113595)]
+tags: ['jsf', 'el', 'facelets', 'jsf 2.2', 'taglib']
+document_f1: 0
+phrase: [('result', 0.012525613667437487), ('curloptreturntransfer', 0.010236287451266094), ('execute', 0.005695358434065322), ('values', 0.005205427937598563)]
+tags: ['php', 'ssl', 'curl']
+document_f1: 0
+phrase: []
+tags: ['php', 'mysql', 'datetime', 'symfony1', 'nan']
+document_f1: 0
+phrase: [('dtwebrules', 0.03554448750164991), ('grab', 0.016801848281132292), ('nothing', 0.013238960081498687)]
+tags: ['c#', 'datatable']
+document_f1: 0
+phrase: []
+tags: ['php', 'selenium', 'screenshot', 'behat', 'goutte']
+document_f1: 0
+phrase: [('print', 0.036144924382278586)]
+tags: ['c#', 'wpf', 'printing']
+document_f1: 0
+phrase: [('everyone', 0.017846457809133062), ('pitfalls', 0.01576573210754532), ('interest', 0.01327196400496449), ('ways', 0.011527256056060984)]
+tags: ['mysql', 'sql', 'database']
+document_f1: 0
+phrase: [('scroll', 0.02089947228169146)]
+tags: ['android', 'listview', 'android fragments', 'scroll', 'android viewpager']
+document_f1: 0.333333333333
+phrase: [('title', 0.029850651521819392), ('day', 0.029791631350985948), ('concatenate', 0.022641033808729942), ('options', 0.01637160972876114), ('class', 0.010378863768837697)]
+tags: ['javascript', 'json', 'mustache']
+document_f1: 0
+phrase: [('way', 0.07317955983941231)]
+tags: ['sql', 'delimiter', 'bcp']
+document_f1: 0
+phrase: []
+tags: ['windows', 'vb.net', '.net 2.0']
+document_f1: 0
+phrase: []
+tags: ['xsd']
+document_f1: 0
+phrase: [('enables', 0.02250285512100283)]
+tags: ['java', 'hibernate']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net', 'visual studio', 'deployment', 'web deployment']
+document_f1: 0
+phrase: [('server', 0.038089467510245695), ('issue', 0.020352433637893737)]
+tags: ['python', 'html', 'download', 'cherrypy']
+document_f1: 0
+phrase: [('value', 0.11755951397352045), ('list', 0.030774698433605568), ('function', 0.02681538918258162), ('mark', 0.025542463867159512), ('units', 0.018162075836971353)]
+tags: ['python', 'regex', 'string', 'python 2.7', 'set']
+document_f1: 0
+phrase: [('use', 0.014028688324963515)]
+tags: ['performance']
+document_f1: 0
+phrase: [('situation', 0.01474051122684249), ('loadoperation', 0.00844341687917301)]
+tags: ['silverlight', 'deployment', 'silverlight 3.0', 'wcf ria services']
+document_f1: 0
+phrase: [('errors', 0.07392609648226764), ('return', 0.022958453599965373), ('something', 0.010456181725788119)]
+tags: ['javascript', 'jquery', 'jquery selectors']
+document_f1: 0
+phrase: []
+tags: ['silverlight', 'c# 4.0', 'binding']
+document_f1: 0
+phrase: [('div', 0.06389416710803356), ('class', 0.020553755691171825), ('dont', 0.016670932352979964)]
+tags: ['php', 'javascript', 'jquery']
+document_f1: 0
+phrase: [('data', 0.022313548474973344), ('network', 0.017701421164557647)]
+tags: ['javascript', 'ruby', 'angularjs', 'sinatra']
+document_f1: 0
+phrase: [('sql', 0.016782337582707176)]
+tags: ['mysql', 'sql']
+document_f1: 0.666666666667
+phrase: [('vars', 0.02810694641545088), ('plsql', 0.023217511219758288), ('index', 0.019871839060365052)]
+tags: ['oracle', 'plsql', 'associative array']
+document_f1: 0.333333333333
+phrase: [('code', 0.04932364685241066), ('need', 0.026754536230563855), ('condition', 0.015565542392933254), ('way', 0.014943920241388714), ('documentstart', 0.014522884783845304)]
+tags: ['javascript', 'google chrome extension']
+document_f1: 0
+phrase: [('everything', 0.014618314127707033), ('interruptedexception', 0.014375814949292024)]
+tags: ['java', 'multithreading', 'wait']
+document_f1: 0
+phrase: [('line', 0.017309661847340146), ('margin', 0.013547996719838867)]
+tags: ['html', 'css']
+document_f1: 0
+phrase: [('blah', 0.047268738873939724), ('time', 0.023723649432115794), ('day', 0.02329006139191523), ('notifications', 0.02287640560911882), ('hours', 0.022777770625132837)]
+tags: ['android', 'time', 'notifications']
+document_f1: 0.5
+phrase: []
+tags: ['xmlpullparser', 'android xmlpullparser']
+document_f1: 0
+phrase: [('section', 0.025009958731927028), ('movl', 0.024001599233579498), ('int', 0.01878702323602197), ('test2', 0.015132977022006307), ('chrono', 0.012080960319002168)]
+tags: ['c++', 'performance', 'testing', 'stack', 'heap']
+document_f1: 0
+phrase: [('flagsarch', 0.06997697712396149)]
+tags: ['gcc', 'makefile', 'gnu make', 'nmake']
+document_f1: 0
+phrase: [('data', 0.03760968976126676), ('sqlbut', 0.028773274102784817)]
+tags: ['c#', 'sql', 'sqlite']
+document_f1: 0
+phrase: [('numberofsheets', 0.04146333828744838)]
+tags: ['java']
+document_f1: 0
+phrase: [('project', 0.02543501505145026), ('taskschedulerpairexclusivescheduler', 0.016990243718970396)]
+tags: ['android', 'ios', 'xamarin', 'task parallel library', 'portable class library']
+document_f1: 0
+phrase: [('space', 0.016400343049676042), ('messageboxshow', 0.015792184113786426), ('virtualpoints', 0.013944638097199008), ('value', 0.013592683436481484), ('vs', 0.011007898486661765)]
+tags: ['vb.net', 'visual studio', 'macros']
+document_f1: 0
+phrase: [('things', 0.021583613632842835)]
+tags: ['sql', 'business intelligence', 'snowflake schema']
+document_f1: 0
+phrase: [('reuse', 0.03551386830085682)]
+tags: ['sql server 2008', 'ssis']
+document_f1: 0
+phrase: [('linepoint', 0.017118716784599673), ('app', 0.00838180538120116), ('int', 0.007050798745684804), ('lines', 0.006449577595477515), ('index', 0.006051070904502938)]
+tags: ['ios', 'cocos2d iphone']
+document_f1: 0
+phrase: []
+tags: ['asp.net', 'asp.net mvc']
+document_f1: 0
+phrase: [('converttochar', 0.06528846529182243)]
+tags: ['unicode', 'itext']
+document_f1: 0
+phrase: [('item', 0.035826060504147154), ('vinegar', 0.029531386403389693), ('juice', 0.02121347267772838)]
+tags: ['excel', 'worksheet function']
+document_f1: 0
+phrase: [('array', 0.1404174740242286), ('elements', 0.040200914969485343)]
+tags: ['javascript', 'arrays']
+document_f1: 0
+phrase: [('pointer', 0.03621227805730013), ('data', 0.021613514729991415), ('return', 0.01875575976491458), ('nt', 0.018124053215443997)]
+tags: ['c', 'pointers', 'structure', 'string formatting', 'null terminated']
+document_f1: 0
+phrase: [('link', 0.030725863836946074), ('days', 0.022300741034051448), ('let', 0.01992938072368708)]
+tags: ['php', 'drupal', 'drupal 7']
+document_f1: 0
+phrase: [('help', 0.008533561912600173), ('mother', 0.0027006887975735885), ('year', 0.0026996965710764)]
+tags: ['html', 'css', 'twitter bootstrap']
+document_f1: 0
+phrase: [('site', 0.055559609282952824), ('time', 0.029106831949188203), ('way', 0.027132070112696787)]
+tags: ['wordpress', 'function']
+document_f1: 0
+phrase: [('button', 0.023068103219521362)]
+tags: ['javascript', 'jquery', 'image', 'button']
+document_f1: 0.4
+phrase: [('page', 0.0883690192969162), ('iframes', 0.03718870767375568)]
+tags: ['c#', 'asp.net', 'vb.net', 'iframe', 'blogengine.net']
+document_f1: 0
+phrase: []
+tags: ['asp.net', 'gridview', 'hyperlink']
+document_f1: 0
+phrase: [('application', 0.0168967131577594), ('java', 0.009952811858112316), ('version', 0.00489019704119999), ('configuration', 0.003317480571115551), ('saw', 0.0032435741618557024)]
+tags: ['java', 'jnlp', 'java web start']
+document_f1: 0.25
+phrase: []
+tags: ['c#', 'caching', 'nhibernate', 'hql', 'updates']
+document_f1: 0
+phrase: []
+tags: ['mysql', 'asp.net', 'gridview']
+document_f1: 0
+phrase: []
+tags: ['sql server', 'ms access', 'pivot']
+document_f1: 0
+phrase: [('compress', 0.06247467988676937), ('ms', 0.029314067820017692), ('data', 0.023210723618371273), ('browsers', 0.01734843269379465)]
+tags: ['asp.net', 'iis', 'iis 7', 'compression', 'gzip']
+document_f1: 0
+phrase: [('units', 0.025280115779673033), ('rvp', 0.011404467733801833)]
+tags: ['arcgis', 'lidar']
+document_f1: 0
+phrase: [('file', 0.08349525334893859), ('vs', 0.04055456580640713), ('systems', 0.035110486612882644), ('issue', 0.023640501084079696)]
+tags: ['ftp', 'ftp client', 'ftps']
+document_f1: 0
+phrase: [('nul', 0.11780497005173186)]
+tags: ['file', 'batch file', 'cmd']
+document_f1: 0
+phrase: []
+tags: ['ios', 'swift', 'nsobject']
+document_f1: 0
+phrase: []
+tags: ['django', 'httpresponse']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'html', 'angularjs']
+document_f1: 0
+phrase: [('root', 0.0241544078097027), ('clue', 0.01555416787922708), ('data3', 0.01543136683650495), ('something', 0.014793784468790363), ('list', 0.012008218939391711)]
+tags: ['java', 'xml', 'xml parsing']
+document_f1: 0
+phrase: []
+tags: ['c#', '.net', 'arrays', 'linq']
+document_f1: 0
+phrase: [('camera1', 0.058276114333616784)]
+tags: ['regex', 'r', 'regex lookarounds']
+document_f1: 0
+phrase: [('target', 0.03479279225108306)]
+tags: ['c#', '.net', 'asp.net', 'logging', 'nlog']
+document_f1: 0
+phrase: [('max', 0.011388391523868153)]
+tags: ['html', 'css', 'html5']
+document_f1: 0
+phrase: [('control', 0.03840074641325442), ('ins', 0.014232869599149107)]
+tags: ['c#', 'wpf', 'xaml', 'theming']
+document_f1: 0
+phrase: []
+tags: ['math', '3d', 'quaternions']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'forms', 'file io', 'jquery file upload', 'jqueryform']
+document_f1: 0
+phrase: [('jenkins', 0.049473749182386485), ('socket', 0.015533717638707594)]
+tags: ['sockets', 'active directory', 'jenkins']
+document_f1: 0.4
+phrase: [('question', 0.03137672017570119)]
+tags: ['database', 'oracle', 'sqlplus']
+document_f1: 0
+phrase: [('point', 0.013734826587430556), ('na', 0.01003317815358643)]
+tags: ['c#', 'directshow']
+document_f1: 0
+phrase: [('error', 0.08142359996702019), ('form', 0.05231617746233947), ('tab', 0.05111223075503166), ('help', 0.04234753064738988)]
+tags: ['jquery', 'jquery ui', 'validation']
+document_f1: 0
+phrase: []
+tags: ['python', 'flask', 'couchdb', 'couchdb python']
+document_f1: 0
+phrase: [('button', 0.07038115987170573), ('buttons', 0.023271998295911332), ('row', 0.018389786287208165), ('xml', 0.017511167819164966)]
+tags: ['android', 'layout', 'tablelayout']
+document_f1: 0
+phrase: [('fine', 0.04535060273654138), ('compiler', 0.0278547026048024), ('int', 0.024636629940630983)]
+tags: ['c++', 'class', 'static', 'constexpr']
+document_f1: 0
+phrase: [('javascript', 0.016490979734055923), ('jquery', 0.010500241562808828)]
+tags: ['jquery', 'image', 'seo']
+document_f1: 0.4
+phrase: [('work', 0.0260224263155436), ('use', 0.023922680408286663), ('examples', 0.015850187240554266)]
+tags: ['spring', 'spring security', 'spring ldap']
+document_f1: 0
+phrase: [('pass', 0.04540136657260094), ('arr', 0.03347466794688708)]
+tags: ['javascript', 'closures']
+document_f1: 0
+phrase: [('number', 0.09508044443232107), ('thanks', 0.04137231909966201), ('reconstruct', 0.03955959269217354), ('nt', 0.03617949453204332)]
+tags: ['c#', 'silverlight', 'datetime']
+document_f1: 0
+phrase: []
+tags: ['entity framework', 'entity framework 4', 'mapping', 'entity framework mapping']
+document_f1: 0
+phrase: [('value', 0.031065260836226627), ('details', 0.012967871830779285), ('parameter', 0.006074843463939797), ('php', 0.005071717772206521), ('size', 0.004759419212991001)]
+tags: ['php', 'arrays', 'wordpress']
+document_f1: 0.25
+phrase: [('repeat', 0.022484734912658986), ('notifications', 0.022137934193744494)]
+tags: ['ios', 'swift', 'notifications', 'uilocalnotification']
+document_f1: 0.333333333333
+phrase: [('remotecontrolintent', 0.011116752932829835)]
+tags: ['android', 'media player', 'lockscreen', 'remote control']
+document_f1: 0
+phrase: [('dropdownlist', 0.014647092154842204), ('enableviewstate', 0.011306906863636756), ('value', 0.009452726561065935), ('void', 0.007771524029784789)]
+tags: ['c#', 'asp.net', 'razor', 'ascx', 'asp.net webpages']
+document_f1: 0
+phrase: [('display', 0.07516656734096208), ('page', 0.07043178432986863), ('wordpress', 0.021041572290075566), ('thanks', 0.018798227531288438), ('info', 0.016790718835752564)]
+tags: ['php', 'wordpress', 'post', 'loops']
+document_f1: 0.222222222222
+phrase: [('v2580', 0.023594225022197348)]
+tags: ['java', 'ldap']
+document_f1: 0
+phrase: [('file', 0.05161866382084949), ('project', 0.033976302022921984), ('problem', 0.011315881025239286), ('course', 0.01007177035878124), ('directory', 0.008163217391551899)]
+tags: ['visual studio', 'visual studio 2013', 'solution']
+document_f1: 0
+phrase: [('application', 0.02711808147701309), ('composerjson', 0.02594011127985122), ('depend', 0.009957697784273965)]
+tags: ['php', 'git', 'symfony2', 'configuration', 'composer php']
+document_f1: 0
+phrase: []
+tags: ['html']
+document_f1: 0
+phrase: [('request', 0.06455478453319502), ('issue', 0.019145461342240905)]
+tags: ['asp.net', 'iasyncresult', 'processmodel']
+document_f1: 0
+phrase: [('view', 0.010156923487174865), ('size', 0.008118980849546042), ('gcoverflowgetlayoutparams', 0.008086094214038657), ('gallerygetlayoutparams', 0.007266404449138046)]
+tags: ['android', 'gallery', 'adapter']
+document_f1: 0
+phrase: []
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: [('windows', 0.05765499851518889), ('right', 0.045832262663261285), ('submenus', 0.03658642959651699), ('cause', 0.03011302231835826)]
+tags: ['wpf', 'windows 8', 'menu', 'right to left']
+document_f1: 0
+phrase: [('calculate', 0.04149303150099625)]
+tags: ['java']
+document_f1: 0
+phrase: [('monkey', 0.0609770946529363), ('value', 0.016227619908381376), ('count', 0.013997910444819513), ('default', 0.01044286952153627), ('help', 0.008340659040052165)]
+tags: ['android', 'unit testing', 'testing', 'monkey', 'android monkey']
+document_f1: 0.2
+phrase: [('getfragmentsettingsfrombackstack', 0.0048866354037297565), ('getfragmentsettings', 0.004717056495521372)]
+tags: ['android', 'android activity', 'android fragments', 'nullpointerexception']
+document_f1: 0
+phrase: [('view', 0.09619860028146283), ('subview', 0.08089321942134936)]
+tags: ['ios', 'objective c', 'uiview', 'frame']
+document_f1: 0
+phrase: [('div', 0.07572115738682707)]
+tags: ['javascript', 'html']
+document_f1: 0
+phrase: [('solution', 0.035801851954886874), ('sanity', 0.01524318595496137), ('month', 0.01450916855298652), ('need', 0.012699382967690326)]
+tags: ['sql server', 'ssis', 'etl']
+document_f1: 0
+phrase: []
+tags: ['android']
+document_f1: 0
+phrase: [('index', 0.011229529409597162), ('visitors', 0.005225662031763758), ('modelsintegerfield', 0.0027169481710641406)]
+tags: ['python', 'django']
+document_f1: 0
+phrase: [('block', 0.03229689214671902), ('msb', 0.03051096898896152), ('way', 0.027917091900157), ('etc', 0.008458272099846715)]
+tags: ['vhdl']
+document_f1: 0
+phrase: [('exist', 0.017777435505640114)]
+tags: ['c', 'linear algebra', 'sparse matrix', 'equations']
+document_f1: 0
+phrase: [('operation', 0.01820048246836351), ('look', 0.00636324888971867), ('something', 0.004927467309112738)]
+tags: ['ios', 'nsoperation', 'nsstream']
+document_f1: 0
+phrase: [('something', 0.02105647444787513)]
+tags: ['java', 'annotations', 'classloader']
+document_f1: 0
+phrase: [('row', 0.07268585950505552), ('foo', 0.03406890341155188), ('bar', 0.03024545877825028), ('edd', 0.02753442935641813), ('value', 0.019387215062264995)]
+tags: ['sqlite']
+document_f1: 0
+phrase: [('nt', 0.03127061501385267), ('contain', 0.02048138581802466)]
+tags: ['c#', '.net', 'windows', 'path']
+document_f1: 0
+phrase: [('elasticsearch', 0.013827179939275843), ('respond', 0.011713948865351464), ('port', 0.011380740575900557), ('source', 0.009119525871994095), ('net', 0.007852231144411687)]
+tags: ['exception', 'configuration', 'elasticsearch']
+document_f1: 0.25
+phrase: []
+tags: ['dart', 'dart webui']
+document_f1: 0
+phrase: [('controllers', 0.04049056497283774), ('assets', 0.011563454846088062), ('directives', 0.009269340669892864)]
+tags: ['node.js', 'coffeescript', 'express', 'angularjs']
+document_f1: 0
+phrase: []
+tags: ['singleton']
+document_f1: 0
+phrase: [('help', 0.019729638681660097), ('cinema5', 0.019033246497155595), ('solution', 0.014956964158305962), ('cinema1', 0.010284984948412623), ('cinema2', 0.009914858083934969)]
+tags: ['php', 'mysql']
+document_f1: 0
+phrase: []
+tags: ['c#', 'asp.net', 'webforms']
+document_f1: 0
+phrase: [('maps', 0.06788809340375308), ('show', 0.028691912132302114)]
+tags: ['javascript', 'google maps']
+document_f1: 0
+phrase: [('jenkins', 0.018641503716533253), ('sep', 0.012696456603123102), ('drwxr', 0.009533470498663588), ('work', 0.009239716065130342), ('command', 0.007295515340122636)]
+tags: ['tomcat', 'jenkins', 'docker', 'docker compose']
+document_f1: 0.222222222222
+phrase: [('access', 0.030999361346747092), ('success', 0.027061738933814267), ('pasword', 0.025822271897460745)]
+tags: ['mysql', 'magento']
+document_f1: 0
+phrase: [('date', 0.02507239861947392), ('code', 0.02099655118142671), ('minute', 0.019744963749972415), ('println', 0.016688664349011013), ('execute', 0.012200094352231797)]
+tags: ['swift', 'nsfetchrequest', 'nssortdescriptor']
+document_f1: 0
+phrase: [('application', 0.10645351562069442)]
+tags: ['c#', 'wpf', 'youtube api']
+document_f1: 0
+phrase: [('za', 0.011171799348475866)]
+tags: ['java', 'swt', 'jface']
+document_f1: 0
+phrase: []
+tags: ['django', 'django models', 'django admin']
+document_f1: 0
+phrase: [('list', 0.02693918999991292), ('someone', 0.026904887326849113), ('access', 0.0237668664568386)]
+tags: ['powershell', 'acl']
+document_f1: 0
+phrase: [('payforms', 0.020445437067867882), ('thanks', 0.019705063861561862), ('tue', 0.01955863251619588), ('mondays', 0.01953872429783492), ('days', 0.012431364374594148)]
+tags: ['mysql', 'date', 'select']
+document_f1: 0
+phrase: [('int', 0.04670901313891489), ('value', 0.028367095735567636)]
+tags: ['c++', 'c++11']
+document_f1: 0
+phrase: [('wearablelistenerservice', 0.013537935257501578)]
+tags: ['android', 'android wear']
+document_f1: 0
+phrase: [('press', 0.042038972428019954), ('work', 0.02414814774431293), ('workaround', 0.022939063594909964), ('edit', 0.022912524751959144)]
+tags: ['java', 'input', 'libgdx', 'keyboard', 'arrow keys']
+document_f1: 0
+phrase: [('groupsnormid', 0.025964527686784332), ('agroupsnorm', 0.019069303523102033), ('everything', 0.016618641412475835), ('bplatformas', 0.012173341673519116)]
+tags: ['ruby on rails', 'belongs to']
+document_f1: 0
+phrase: [('place', 0.02957443342135621), ('option', 0.02137770107304751)]
+tags: ['iphone', 'objective c', 'uitabbarcontroller']
+document_f1: 0
+phrase: [('someone', 0.01772149042282958)]
+tags: ['json', 'grails', 'groovy']
+document_f1: 0
+phrase: [('mouseevent', 0.01875487101936069), ('graphics', 0.011269557230740374)]
+tags: ['mouseevent', 'abstract class', 'mouselistener']
+document_f1: 0.4
+phrase: [('way', 0.026557281640518328)]
+tags: ['javascript', 'meteor', 'requirejs']
+document_f1: 0
+phrase: [('please', 0.0718859635021112)]
+tags: ['php', 'arrays']
+document_f1: 0
+phrase: [('length', 0.025444119684369215), ('range', 0.015471376007479914)]
+tags: ['c#']
+document_f1: 0
+phrase: [('week', 0.05972201779314229), ('weeks', 0.03741857409406513), ('days', 0.03426755578065262)]
+tags: ['sharepoint', 'sharepoint 2010']
+document_f1: 0
+phrase: [('betygessays', 0.04795267865965382), ('betygusers', 0.047117145804470885), ('columns', 0.04073176836314732), ('join', 0.021472044792306952)]
+tags: ['php', 'mysql', 'sql', 'table', 'join']
+document_f1: 0.222222222222
+phrase: []
+tags: ['java', 'oauth', 'google bigquery']
+document_f1: 0
+phrase: [('code', 0.017876673176716124), ('result', 0.014934256113603345), ('field', 0.010034619462834411), ('bearer', 0.00690469276425594), ('gdata', 0.006170265738304162)]
+tags: ['google api', 'google drive sdk', 'google oauth', 'google api php client', 'guzzle']
+document_f1: 0
+phrase: [('searchquery', 0.027169620127648925), ('count', 0.01560897814681825), ('motorcycle', 0.009041801234306505), ('maxlength', 0.00889764929724527)]
+tags: ['php', 'hyperlink']
+document_f1: 0
+phrase: [('work', 0.010331635401314753)]
+tags: ['python', 'mergesort']
+document_f1: 0
+phrase: [('testjson', 0.05159330564406379), ('column', 0.04477001614917157), ('sec', 0.01975271211928453)]
+tags: ['json', 'crate']
+document_f1: 0
+phrase: [('select', 0.04359965366171656), ('scenario', 0.035986248712364874)]
+tags: ['cognos', 'cognos 10', 'cognos bi', 'cognos 8']
+document_f1: 0
+phrase: [('load', 0.05668754704890862), ('gif', 0.04119839616237742), ('edit', 0.03585921347313008), ('correct', 0.007914131473693924)]
+tags: ['javascript', 'php', 'html', 'ajax', 'jquery']
+document_f1: 0
+phrase: []
+tags: ['python', 'ssh', 'pexpect']
+document_f1: 0
+phrase: [('opportunity', 0.03463002383991384), ('recherche', 0.010682959638633591)]
+tags: ['symfony2', 'twig']
+document_f1: 0
+phrase: [('flag', 0.032642251431266575), ('debug', 0.024156416704379322), ('precisions', 0.02112846039232379), ('option', 0.01516389105705828)]
+tags: ['c', 'cuda', 'gpgpu', 'precision']
+document_f1: 0
+phrase: [('report', 0.06728945004154553), ('controller', 0.021092229408269474), ('return', 0.013978625573757985), ('things', 0.010283117062052104), ('nt', 0.008967247567128675)]
+tags: ['java', 'forms', 'spring mvc']
+document_f1: 0
+phrase: [('testnumbersadd', 0.03457087822808665)]
+tags: ['java', 'arrays', 'sorting']
+document_f1: 0
+phrase: [('pointx', 0.019238343223659703), ('make', 0.015455216272445393), ('try', 0.012900753349064781), ('pointy', 0.01171615309271561), ('range', 0.007611762404604807)]
+tags: ['python', 'polygon', 'point in polygon']
+document_f1: 0
+phrase: [('sit', 0.020542104604437984), ('fr', 0.020078591617852803), ('issue', 0.019452032780299885)]
+tags: ['php', 'wordpress']
+document_f1: 0
+phrase: []
+tags: ['ajax']
+document_f1: 0
+phrase: [('button', 0.029873714224737242)]
+tags: ['javascript', 'html5']
+document_f1: 0
+phrase: [('approach', 0.010426569584388676)]
+tags: ['php', 'html5', 'forms', 'input', 'contenteditable']
+document_f1: 0
+phrase: [('idedit', 0.010836445877198881), ('labelidpackets', 0.0034326835771924394), ('elit', 0.0031756506282367815), ('users', 0.0027955105383594193), ('reserve', 0.0014654548341934371)]
+tags: ['html', 'validation']
+document_f1: 0
+phrase: [('view', 0.032567692870829314)]
+tags: ['java', 'android', 'android preferences']
+document_f1: 0
+phrase: [('bits', 0.009495555494734501), ('applicationxml', 0.00890780406491484), ('order', 0.007588964600461103)]
+tags: ['php', 'curl', 'docusignapi']
+document_f1: 0
+phrase: [('help', 0.028405541153320238), ('call', 0.024030700113718193), ('method', 0.021656029743788673), ('members', 0.019289134018223388), ('enums', 0.016232518142548252)]
+tags: ['java', 'inheritance', 'enums']
+document_f1: 0.25
+phrase: []
+tags: ['php', 'parsing', 'pdf']
+document_f1: 0
+phrase: [('result', 0.023350932179653644), ('line', 0.02041743423842402), ('days', 0.018513089001956078), ('return', 0.01798428652664312), ('code', 0.01275884697069984)]
+tags: ['python', 'datetime', 'date', 'timedelta']
+document_f1: 0
+phrase: [('data', 0.0386826885205106)]
+tags: ['mysql', 'database', 'zend framework', 'frameworks']
+document_f1: 0
+phrase: []
+tags: ['api', 'telegram']
+document_f1: 0
+phrase: [('time', 0.012479069479062464), ('page', 0.007131927697650722)]
+tags: ['c++', 'map', 'reference', 'containers']
+document_f1: 0
+phrase: [('database', 0.10230542232599381), ('site', 0.03032317388619074), ('security', 0.02550672736277372)]
+tags: ['sql', 'database', 'sql server 2012', 'database restore', 'database security']
+document_f1: 0.25
+phrase: [('days', 0.023142845760145695), ('reply', 0.01717723434202576), ('condition', 0.011253648774495095)]
+tags: ['ios', 'nsdate', 'nscalendar', 'nsdatecomponents']
+document_f1: 0
+phrase: [('value', 0.028134066455326123), ('error', 0.017690838076989873), ('testcom', 0.012876498966543724), ('failureurlhttp', 0.00981767727084448)]
+tags: ['sagepay']
+document_f1: 0
+phrase: [('dependency', 0.028878096368552608), ('type', 0.011742132314095058)]
+tags: ['spring batch']
+document_f1: 0
+phrase: [('dim', 0.06690571797557474), ('help', 0.017895357409082786)]
+tags: ['html', 'asp.net', 'vb.net', 'code behind', 'htmlgenericcontrol']
+document_f1: 0
+phrase: [('checknrpe', 0.03308658924474918), ('good', 0.01063301038082535)]
+tags: ['powershell', 'nagios', 'dollar sign']
+document_f1: 0
+phrase: [('machine', 0.025748645098364147), ('see', 0.02473499837344116), ('windows', 0.018396063601900072), ('tools26microsoftwindowsazuretargets', 0.015257655159203989), ('msbuildmicrosoftvisualstudiov120windows', 0.01521914894442701)]
+tags: ['c#', 'azure', 'msbuild']
+document_f1: 0
+phrase: [('obb', 0.02533469737628152), ('mb', 0.021099840097155563), ('phone', 0.013612834228413404), ('compression', 0.01187704966545354)]
+tags: ['c#', 'android', 'xamarin.android', 'monogame']
+document_f1: 0
+phrase: [('textfield', 0.0196481554341574), ('stiftdrawline', 0.015921880252711015), ('dmin', 0.011890942810777473), ('wmin', 0.011572921305675818), ('f1', 0.00894291772136407)]
+tags: ['java', 'applet', 'jframe', 'jpanel', 'japplet']
+document_f1: 0
+phrase: []
+tags: ['firebase', 'firebase security']
+document_f1: 0
+phrase: [('kendo', 0.0145872398040444), ('jquery', 0.013884190502737944), ('cols', 0.009648108927297564), ('things', 0.008108009448155967), ('version', 0.007890307630228341)]
+tags: ['jquery', 'webforms', 'kendo ui']
+document_f1: 0.25
+phrase: [('exception', 0.03016622587562587), ('variables', 0.028015709569300773), ('curiosity', 0.015976203988807922)]
+tags: ['python', 'python 2.7', 'exception handling']
+document_f1: 0
+phrase: [('title', 0.07229520356248809), ('date', 0.057352043010489816), ('case', 0.021880019807822917), ('way', 0.013147940761168823), ('someone', 0.01245836157750802)]
+tags: ['java', 'android', 'date', 'tabs']
+document_f1: 0.222222222222
+phrase: [('app', 0.03506115722618455)]
+tags: ['android']
+document_f1: 0
+phrase: [('margin', 0.018602184572070548), ('height', 0.01700809762388378), ('snapstodevicepixels', 0.012993875078769944), ('gridrow', 0.012212601622677522), ('borderthickness', 0.010031352375752037)]
+tags: ['c#', 'wpf', 'automation', 'ui automation', 'microsoft ui automation']
+document_f1: 0
+phrase: [('dont', 0.09046560413366769), ('variables', 0.08759702566441505), ('something', 0.0414606604814531)]
+tags: ['php', 'mod rewrite']
+document_f1: 0
+phrase: [('code', 0.01526499591279235), ('show', 0.012592871722794758), ('categoryid', 0.009992053154109731), ('value', 0.00822860826545483), ('columnid', 0.007476795018937528)]
+tags: ['highcharts']
+document_f1: 0
+phrase: [('something', 0.028441380433143378), ('time', 0.0266837061275054)]
+tags: ['python 2.7', 'numpy', 'pandas']
+document_f1: 0
+phrase: []
+tags: ['objective c', 'cocoa', 'cocoa touch']
+document_f1: 0
+phrase: [('plot', 0.04471841821473148), ('point', 0.023350357923758114), ('triangles', 0.02100691229892607), ('please', 0.012726281041202447), ('way', 0.011737687641100468)]
+tags: ['python', 'matplotlib', 'plot', 'save']
+document_f1: 0.222222222222
+phrase: [('topic', 0.05645265226777588)]
+tags: ['image processing', 'computer vision', 'feature detection']
+document_f1: 0
+phrase: [('stage', 0.0264056183461888), ('job', 0.022602141950024714), ('hdfs', 0.013308727047607403), ('data', 0.012257699140414174), ('time', 0.009442509129814116)]
+tags: ['hadoop', 'dynamic', 'hive', 'hdfs', 'hiveql']
+document_f1: 0.2
+phrase: [('hoewver', 0.05222278530866578)]
+tags: ['java', 'io', 'nio', 'bufferedinputstream']
+document_f1: 0
+phrase: [('api', 0.08617777879126459)]
+tags: ['objective c', 'xcode7', 'ios9', 'corespotlight']
+document_f1: 0
+phrase: []
+tags: ['html', 'nginx']
+document_f1: 0
+phrase: [('activity', 0.02734893493610423)]
+tags: ['android']
+document_f1: 0
+phrase: []
+tags: ['cordova']
+document_f1: 0
+phrase: []
+tags: ['extjs', 'sencha touch', 'forum']
+document_f1: 0
+phrase: []
+tags: ['ruby on rails', 'json', 'ruby on rails 4']
+document_f1: 0
+phrase: [('figure', 0.026687545639549864)]
+tags: ['delphi', 'email', 'attachment', 'embedded browser']
+document_f1: 0
+phrase: [('arguments', 0.0466124828205013), ('argument', 0.025044971756421598), ('line', 0.017992371871984318)]
+tags: ['bash']
+document_f1: 0
+phrase: [('screen', 0.033433675894912245), ('nav', 0.021853866738490504), ('resolutions', 0.02061831245311686), ('margin', 0.016318813942394705), ('resolution', 0.013593488109104249)]
+tags: ['html', 'css']
+document_f1: 0
+phrase: [('error', 0.036330104587093896)]
+tags: ['ssas']
+document_f1: 0
+phrase: [('workers', 0.03988399122658793), ('job', 0.017007965664378722), ('process', 0.016317389872322723), ('practice', 0.010300440602085265), ('share', 0.008551203201507644)]
+tags: ['javascript', 'multithreading', 'web worker']
+document_f1: 0
+phrase: [('php', 0.04185086296618602), ('fix', 0.027140241952638238)]
+tags: ['php', 'function', 'configuration', 'web hosting']
+document_f1: 0.333333333333
+phrase: [('request', 0.01984800041126936), ('article', 0.016226788783695798), ('ways', 0.015298585561764345), ('angularjs', 0.010060820598629599)]
+tags: ['ruby on rails 3', 'angularjs', 'web crawler', 'bots']
+document_f1: 0.25
+phrase: [('time', 0.07506402094605674)]
+tags: ['intellij idea', 'sublimetext2']
+document_f1: 0
+phrase: [('positiveresult', 0.02253727565851167), ('void', 0.021558359402279174)]
+tags: ['android', 'dialog preference']
+document_f1: 0
+phrase: []
+tags: ['ios', 'ios7', 'core animation']
+document_f1: 0
+phrase: [('mymapcandragmap', 0.0056577785230190625), ('mymapzoom', 0.005427418172974084), ('nuget', 0.004565994258472086), ('mymapmaxzoom', 0.0045071907567555795), ('value', 0.0029388255953616505)]
+tags: ['c#', 'json', 'weather', 'c3']
+document_f1: 0
+phrase: [('name', 0.013634384184272687), ('email', 0.012135219804964313)]
+tags: ['ruby on rails', 'arrays', 'model', 'attributes', 'migrate']
+document_f1: 0
+phrase: [('way', 0.02847148771447992)]
+tags: ['c#', 'visual studio', 'msbuild']
+document_f1: 0
+phrase: [('class', 0.10026130963434533), ('project', 0.032562878377718)]
+tags: ['java', 'class', 'naming conventions']
+document_f1: 0.4
+phrase: [('java', 0.02448250440250753)]
+tags: ['java', 'intellij idea', 'jar']
+document_f1: 0.5
+phrase: [('enter', 0.08006094429227692)]
+tags: ['java', 'android', 'sms']
+document_f1: 0
+phrase: [('getmethods', 0.018872642365901242), ('things', 0.0180822412213372)]
+tags: ['java', 'methods']
+document_f1: 0
+phrase: [('browsernoactivitytimeout', 0.015943165648147926)]
+tags: ['dart', 'karma runner']
+document_f1: 0
+phrase: [('locations', 0.07017725446668568)]
+tags: ['c++', 'windows explorer']
+document_f1: 0
+phrase: [('git', 0.03664916554787824), ('daemon', 0.028022889867021637), ('user', 0.027632971357523236), ('baselog', 0.015750555582091964), ('gitignore', 0.010558818195596904)]
+tags: ['linux', 'git', 'file permissions']
+document_f1: 0.25
+phrase: [('postopengraphstorytofacebook', 0.011336210166407408), ('testapp', 0.011214685837455057), ('post', 0.00772996139748542), ('value', 0.007192486282454422), ('entries', 0.005750961200512655)]
+tags: ['ios', 'facebook', 'facebook opengraph', 'opengraph', 'facebook share']
+document_f1: 0
+phrase: [('void', 0.020022785064373258), ('button', 0.018717633888044035)]
+tags: ['.net', 'powershell', 'active directory']
+document_f1: 0
+phrase: []
+tags: ['python', 'selenium']
+document_f1: 0
+phrase: [('init', 0.012386183031738624), ('mybeangetcalculatedvalue', 0.004791732563871327), ('value', 0.00442814459117289), ('mess', 0.003676224890085821), ('state', 0.003671898369883751)]
+tags: ['java', 'javabeans', 'initializer']
+document_f1: 0
+phrase: [('result', 0.017929809282810828), ('caer1010', 0.009799691291291863), ('k3110', 0.007350535952695853), ('cacyto1710', 0.0069238542417337685)]
+tags: ['matlab', 'integration', 'ode', 'differential equations', 'integral']
+document_f1: 0
+phrase: [('file', 0.07674551497088225), ('use', 0.0512516115786151), ('question', 0.033268420081537624), ('edit', 0.027598361935117992)]
+tags: ['c++', 'c preprocessor']
+document_f1: 0
+phrase: []
+tags: ['oracle', 'plsql']
+document_f1: 0
+phrase: [('sure', 0.03615467227682382)]
+tags: ['mysql', 'sql', 'table', 'join', 'sql update']
+document_f1: 0
+phrase: [('solution', 0.015921614363979673), ('port', 0.01469433608322444), ('goal', 0.01227913563297166), ('help', 0.012243794075431792), ('dll\xc3', 0.006658638256735631)]
+tags: ['.net', 'asp.net', 'wcf', 'remoting', 'firewall']
+document_f1: 0
+phrase: [('framepair', 0.029674908124286442), ('something', 0.019181813475211522), ('time', 0.0165741031874)]
+tags: ['google project tango']
+document_f1: 0
+phrase: []
+tags: ['javascript', 'node.js', 'express', 'acl', 'roles']
+document_f1: 0
+phrase: [('removeduplicates', 0.014417006260312002), ('issue', 0.009135308642196601)]
+tags: ['excel', 'vba']
+document_f1: 0
+phrase: [('character', 0.07993989129221381)]
+tags: ['php', 'regex']
+document_f1: 0
+phrase: [('faultexception', 0.044471803833148534), ('externalserviceproxysavedata', 0.02537729673310956), ('time', 0.02516306278824402)]
+tags: ['wcf', 'silverlight', 'wcf ria services']
+document_f1: 0
+phrase: [('singleton', 0.07002737773252875), ('animalnames', 0.033989155191560184), ('dispatchonce', 0.011030625822195599)]
+tags: ['objective c', 'ios', 'ios5', 'cocos2d iphone', 'ios6']
+document_f1: 0
+phrase: [('http', 0.028037086008648866), ('deter', 0.012505912353520006), ('cocoa', 0.011627973275444807)]
+tags: ['php', 'ios', 'encryption', 'aes']
+document_f1: 0
+phrase: []
+tags: ['sql server', 'triggers']
+document_f1: 0
+phrase: [('offline', 0.06961310398995803)]
+tags: ['git', 'github', 'git submodules']
+document_f1: 0
+phrase: [('intcount', 0.0505617727777236), ('collections', 0.042450321962536855), ('return', 0.032041427941515266)]
+tags: ['javascript', 'node.js', 'mongodb', 'mongoose']
+document_f1: 0
+phrase: [('value', 0.05326801234402806), ('ac', 0.03766668825563939), ('use', 0.014603217518619975)]
+tags: ['actionscript 3', 'flex', 'flex4', 'flex3', 'mxml']
+document_f1: 0
+phrase: [('something', 0.030456690199654753)]
+tags: ['php', 'session', 'console', 'firebug', 'firephp']
+document_f1: 0
+phrase: [('data', 0.028695900961186745), ('post', 0.01472255698240173), ('line', 0.01385888724446431), ('row', 0.00836979316236637), ('repeat', 0.005770600045255802)]
+tags: ['matlab', 'bigdata']
+document_f1: 0
+phrase: []
+tags: ['php']
+document_f1: 0
+phrase: [('dependencies', 0.03285331469110517), ('try', 0.011189131291091066), ('buildtoolsversion', 0.010655327712473137), ('targetsdkversion', 0.010264217238209665), ('complication', 0.009712384741510045)]
+tags: ['java', 'android', 'gradle', 'android studio', 'osmdroid']
+document_f1: 0
+phrase: [('version', 0.02543208098485671), ('thanks', 0.020977178895128193), ('try', 0.018444107681758175), ('port', 0.017552027663168233), ('today', 0.016469283796689157)]
+tags: ['android']
+document_f1: 0
+phrase: []
+tags: ['c#', 'nhibernate', 'fluent nhibernate']
+document_f1: 0
+phrase: [('work', 0.00875307961956218), ('height', 0.0067708053474313835), ('floor', 0.006585666633364807)]
+tags: ['jquery', 'jquery plugins']
+document_f1: 0
+phrase: [('round', 0.035415702584367825), ('accomplish', 0.027735179589012462), ('value', 0.024637463504826564)]
+tags: ['tsql', 'sql server 2012']
+document_f1: 0
+phrase: [('af', 0.08178468279679384), ('value', 0.023253235769426638), ('contentdelivery', 0.0037938684652908394), ('row', 0.0036667114402379056), ('duplicate', 0.0029269302331646906)]
+tags: ['java', 'xml']
+document_f1: 0
+phrase: [('targetarch', 0.0684176099092163)]
+tags: ['makefile', 'gnu make']
+document_f1: 0
+phrase: []
+tags: ['jquery', 'html']
+document_f1: 0
+phrase: [('ivy', 0.031010538736896978), ('configurations', 0.010514547195342349), ('commons', 0.009242681464004393)]
+tags: ['gradle', 'ivy']
+document_f1: 0.4
+phrase: [('record', 0.03357915135050312), ('operation', 0.01895985688325145), ('print', 0.013219746329617041), ('exists', 0.011342403945208322), ('sql', 0.007260387411309173)]
+tags: ['sql', 'sql server 2008', 'tsql']
+document_f1: 0.25
+phrase: [('key', 0.08161375196759085), ('map', 0.06288941626895117), ('method', 0.04670404322238781), ('part', 0.019700988802419536), ('welcome', 0.014852307329447463)]
+tags: ['java', 'map', 'key']
+document_f1: 0.5
+phrase: [('default', 0.10985098615287937), ('style', 0.0339694474238372)]
+tags: ['c++11']
+document_f1: 0
+phrase: [('parse', 0.01189217855813174), ('tokens', 0.008625601950787301), ('return', 0.008572834955573422), ('index', 0.005290097256281586)]
+tags: ['c', 'bison', 'flex lexer']
+document_f1: 0
+phrase: [('matlab', 0.05717486350701574)]
+tags: ['osx', 'matlab', 'user interface', 'usability']
+document_f1: 0.4
+phrase: [('friends', 0.029514056094339575)]
+tags: ['app store']
+document_f1: 0
+phrase: [('relationship', 0.025418965989474383), ('nil', 0.01298883039093141), ('code', 0.010758454447811967), ('ability', 0.005406388740173993), ('insights', 0.004107973601687015)]
+tags: ['ios', 'objective c', 'core data']
+document_f1: 0
+phrase: []
+tags: ['c#', 'arrays', 'memory', 'optimization', 'struct']
+document_f1: 0
+phrase: [('accessmask', 0.01396463237109738), ('opencv', 0.013299979256313155), ('srcmapscameracalibrationcpp', 0.009694550933880143), ('opencvbuildincludeopencv2coretypesch', 0.009565897052025877), ('opencvbuildincludeopencv2coremathpp', 0.008443893711425858)]
+tags: ['c++', 'opencv', 'visual studio 2012', 'declaration', 'redefinition']
+document_f1: 0.2
+phrase: [('lts', 0.039085775047580665), ('check', 0.03172752414697488)]
+tags: ['linux', 'bash', 'shell', 'ubuntu', 'ubuntu 12.04']
+document_f1: 0
+Average F1-score:0.0396428571429
