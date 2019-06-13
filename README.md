@@ -1,4 +1,5 @@
 # CS247-project
+# Group 4: Lucky Punch
 
 ## Keyword Extract in CQA networks
 In CQA websites (Community-based Question Answering), such as Stack Overflow, precisely extracting the labels or tags for a new problem can help categorize it in a proper way. For example, one question on Stack Overflow that asked “how to turn on the syntax highlight in Vim” was tagged with “Vim” and “Highlight”. Its twin question for turning off the highlight only has tag “Vim”. Therefore, augmenting the second question with a tag “highlight” will better describe its content. So in this project, you will be asked to propose an algorithm that can accurately and efficiently extract all the tags for a new question.
@@ -14,6 +15,13 @@ Following files are modified or created.
 
 Basically every file is changed except the runner.py.
 The code can be used by "python2 runner.py" with file needed in the correct position and name. You need to use lda.py to generate lda file first and then you can use the runner.py.
+
+## Multipartite Graph (under 'Multipartite Graph' directory)
+Current code is based on the repo https://github.com/boudinfl/pke.
+
+multipartiterank.py is modified.
+
+The experiment is implemented in 'Multipartite Graph Method.ipynb'.
 
 ## RNN Model Usage (assume under the RNN model directory)
 Current code is based on code written by Rui Meng, here is the original repo https://github.com/memray/seq2seq-keyphrase-pytorch,
