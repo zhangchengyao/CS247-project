@@ -14,7 +14,15 @@ Following files are modified or created.
 - rank.py                  try to get different kinds of candidates(words, phrase), get the top 5 and try different rule of calculate accuracy
 
 Basically every file is changed except the runner.py.
-The code can be used by "python2 runner.py" with file needed in the correct position and name. You need to use lda.py to generate lda file first and then you can use the runner.py.
+
+### How to use it
+#### step 1: put needed file in the salience repo
+put data_rake.csv in the CS247-project/saliencerank
+#### step 2: generate lda file
+cd saliencerank
+python3 lda.py 
+#### step 3: run the program
+python2 runner.py
 
 ## Multipartite Graph (under 'Multipartite Graph' directory)
 Current code is based on the repo https://github.com/boudinfl/pke.
