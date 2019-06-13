@@ -5,7 +5,7 @@ In CQA websites (Community-based Question Answering), such as Stack Overflow, pr
 
 ## RNN Model Usage (assume under the RNN model directory)
 Current code is based on code written by Rui Meng, here is the original repo https://github.com/memray/seq2seq-keyphrase-pytorch,
-However, following files are modified in order to implement our own model:
+However, following files are modified (files not modified are those never/seldom being used) in order to implement our own model:
 - pykp/model.py
 - train.py
 - pykp/dataloader.py
